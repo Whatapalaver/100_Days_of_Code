@@ -13,3 +13,5 @@ This is the Medium Article that set me off on the Udemy route:
 https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a
 
 ### R1D2
+Today I am on to Chapter 2 of "The Well-Grounded Rubyist"
+Not really a lot of coding going on as we seem to be getting to grips with the semantics of objects or maybe thats Objects.
