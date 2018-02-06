@@ -15,3 +15,13 @@ https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-wa
 ### R1D2
 Today I am on to Chapter 2 of "The Well-Grounded Rubyist"
 Not really a lot of coding going on as we seem to be getting to grips with the semantics of objects or maybe thats Objects.
+
+### R1D3
+Still working through Chapter 2 of TWGR.
+Discovered the __send__ method as a way of passing a message (perhaps via user input) to an object
+eg.
+  if ticket_obj.respond_to?(request)
+    puts icket_obj.__send__(request)
+  else
+    puts "No such info available"
+  end
