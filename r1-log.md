@@ -29,3 +29,6 @@ eg.
 ### R1D4
 Almost finished chapter 3 of TWGR. Covered inheritance and then some really conceptually tricky stuff about objects that are classes and classes that are objects. Did my head in really.
 Also worked through some CSS and HTML5 work on the Udemy course. That actually looks pretty exciting, I'm impressed how much progress has been made.
+
+### R1D5
+Finished Chapter 3 of TWGR grasped the the attribute_reader / writer / accessor methods. Pretty neat.
