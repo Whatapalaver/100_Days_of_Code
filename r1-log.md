@@ -32,3 +32,6 @@ Also worked through some CSS and HTML5 work on the Udemy course. That actually l
 
 ### R1D5
 Finished Chapter 3 of TWGR grasped the the attribute_reader / writer / accessor methods. Pretty neat.
+
+### R1D6 
+Chapter 4 of TWGR. Classes and modules and trialling some error capture with method_missing methods, which illustrate the use of super to pick up the kernel method_missing (or next highest definition).
