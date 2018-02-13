@@ -5,7 +5,8 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
-
+### R1D7
+Playing around with CSS as part of the Udemy Complete Web Developer course.
 
 ### R1D6 
 Chapter 4 of TWGR. Classes and modules and trialling some error capture with method_missing methods, which illustrate the use of super to pick up the kernel method_missing (or next highest definition).
