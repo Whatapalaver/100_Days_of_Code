@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D9
+CWD Udemy course. Created a startup page with mailchimp signup form. dabbled with animate.css
+
 ### R1D8
 CWD Udemy course. CSS transforms, flexbox and bootstrap. I'm so happy with the development in CSS since the early days. Bootstrap is going to be such a great help.
 
