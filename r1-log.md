@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D8
+CWD Udemy course. CSS transforms, flexbox and bootstrap. I'm so happy with the development in CSS since the early days. Bootstrap is going to be such a great help.
+
 ### R1D7
 Playing around with CSS as part of the Udemy Complete Web Developer course.
 
