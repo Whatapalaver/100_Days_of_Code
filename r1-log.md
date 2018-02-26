@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D13
+More CSS Grid tutorial but I struggled to stay engaged today. Seemed a bit too hard to follow along and scrimba doesn't seem to be quite as interactive as it promises.
+
 ### R1D12
 Learning CSS Grid with a free tutorial on scrimba https://scrimba.com/g/gR8PTE
 The grid-template-area methodology is inspired.
