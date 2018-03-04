@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D14
+Chapter 5 of TWGR sent me into a tail spin. I can't get my head around self. I tried some Ruby katas on Codewars and just can't get them to run, even at 8kyu. In desperation I headed to Learn Ruby the Hard Way. Ex 13 onwards.
+
 ### R1D13
 More CSS Grid tutorial but I struggled to stay engaged today. Seemed a bit too hard to follow along and scrimba doesn't seem to be quite as interactive as it promises.
 
