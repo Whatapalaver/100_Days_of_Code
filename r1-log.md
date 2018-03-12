@@ -5,6 +5,10 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+## R1D15
+I've had a bit of a hiatus on my daily scheduling as I was away for the weekend. Started back today almost at square one as I joined Treehouse and started on their Ruby track. That means I'm back at basic level Ruby tutorials. I actually think it will do me a favour though to really cement my basic knowledge. I quite like the Treehouse style as well.
+I am a little worried that I will continue to hop around so much, continually starting new things, and never actually progress. Thats pretty much my problem with all my projects!
+
 ### R1D14
 Chapter 5 of TWGR sent me into a tail spin. I can't get my head around self. I tried some Ruby katas on Codewars and just can't get them to run, even at 8kyu. In desperation I headed to Learn Ruby the Hard Way. Ex 13 to Ex 17.
 Loads of example programs for opening and then reading and writing to files.
