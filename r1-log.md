@@ -5,7 +5,10 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
-## R1D15
+### R1D16
+Back using Treehouse again. Completed the sessions on arrays and hashes. Practiced merging hashes and removing items from arrays. Good practice using the Ruby methods documentation.
+
+### R1D15
 I've had a bit of a hiatus on my daily scheduling as I was away for the weekend. Started back today almost at square one as I joined Treehouse and started on their Ruby track. That means I'm back at basic level Ruby tutorials. I actually think it will do me a favour though to really cement my basic knowledge. I quite like the Treehouse style as well.
 I am a little worried that I will continue to hop around so much, continually starting new things, and never actually progress. Thats pretty much my problem with all my projects!
 
