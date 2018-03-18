@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D17
+More Treehouse. Finishing the Ruby loops tutorial.
+
 ### R1D16
 I quite impressed with Treehouse tutorials. I built a grocery list program, using .push to put a hash into an array.
 
