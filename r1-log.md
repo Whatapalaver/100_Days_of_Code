@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D18
+I went back to codewars during my lunch break. The last time I used it I was so demoralised that I couldnt answer the “easy” grade 8 kata puzzles. I’m happy that today I managed to work my way through 4 or 5 with some assistance from StackOverflow. Currently my kata rating is 7 with an honour score of 84. 
+
 ### R1D17
 More Treehouse. Finishing the Ruby loops tutorial.
 
