@@ -5,6 +5,11 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D19
+SQL tasks at work today. I’m prepping the annual plan and got to build a stored procedure that utilised CTE’s in order to perform a left join on a select distinct clause. I havent done that before and was satisfying to solve he problem of why my initial solution had tripled the budget (dodgy non-unique join). 
+I also fathomed out how to perform an escape on strings with single quote marks. If I hadnt studied basic ruby I wouldnt even know what that meant. In SQL you escape a quote with anoother quote eg. ‘Southend’’s group of CCG’’s’
+Pleasing. 
+
 ### R1D18
 I went back to codewars during my lunch break. The last time I used it I was so demoralised that I couldnt answer the “easy” grade 8 kata puzzles. I’m happy that today I managed to work my way through 4 or 5 with some assistance from StackOverflow. Currently my kata rating is 7 with an honour score of 84. 
 
