@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D20
+A bit of slow progress recently but I've done more of the Treehouse course today working through blocks and different methods to call them eg. block.call or yield
+
 ### R1D19
 SQL tasks at work today. I’m prepping the annual plan and got to build a stored procedure that utilised CTE’s in order to perform a left join on a select distinct clause. I havent done that before and was satisfying to solve he problem of why my initial solution had tripled the budget (dodgy non-unique join). 
 I also fathomed out how to perform an escape on strings with single quote marks. If I hadnt studied basic ruby I wouldnt even know what that meant. In SQL you escape a quote with anoother quote eg. ‘Southend’’s group of CCG’’s’
