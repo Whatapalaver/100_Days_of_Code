@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D21
+Working with blocks in Treehouse. It made me sweat a bit. I feel like I am on the edge of my understanding now. About to teeter into the abyss...
+
 ### R1D20
 A bit of slow progress recently but I've done more of the Treehouse course today working through blocks and different methods to call them eg. block.call or yield
 
