@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D22
+Back to classes again today. Worked through the making of a scary monster and just started an address book application.
+
 ### R1D21
 Working with blocks in Treehouse. It made me sweat a bit. I feel like I am on the edge of my understanding now. About to teeter into the abyss...
 
