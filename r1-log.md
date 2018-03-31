@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D23
+Still working on classes today - building an address book application. I got up early to start coding today and the freshness seemed to help with my comprehension. Or perhaps its the repition but either way I feel like I'm finally getting it.
+
 ### R1D22
 Back to classes again today. Worked through the making of a scary monster and just started an address book application.
 
