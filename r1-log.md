@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D24
+A very quick session on modules, such as Enumerable and Math. I'm feeling vaguely panicky again.
+
 ### R1D23
 Still working on classes today - building an address book application. I got up early to start coding today and the freshness seemed to help with my comprehension. Or perhaps its the repition but either way I feel like I'm finally getting it.
 
