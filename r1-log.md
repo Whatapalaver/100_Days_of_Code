@@ -8,6 +8,8 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 ### R1D25
 As with moist projects I start, I am risking a bit of a scatter approach with my learning. Today I have signed up to the very well regarded Harvard CS50 introductory course on Computer Science but I still have Treehouse Ruby track on the go and Udemy Complete Web Developer in 2018. Not to mention unoped tabs for Learn Enough Javascript to be Dangerous, Learn Ruby the Hard Way and You Don't Know JS. I think I need to focus on focus!
 
+So today I went back to treehouse and worked through include and extend for mixins. I seem to have missed exactly what the difference was but hey, I got the badge anyway?!
+
 ### R1D24
 A very quick session on modules, such as Enumerable and Math. I'm feeling vaguely panicky again.
 
