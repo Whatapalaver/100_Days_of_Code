@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D26
+Dabbling with SQL today and started the CS50 Harvard course. Now need time to play with Scratch.
+
 ### R1D25
 As with moist projects I start, I am risking a bit of a scatter approach with my learning. Today I have signed up to the very well regarded Harvard CS50 introductory course on Computer Science but I still have Treehouse Ruby track on the go and Udemy Complete Web Developer in 2018. Not to mention unoped tabs for Learn Enough Javascript to be Dangerous, Learn Ruby the Hard Way and You Don't Know JS. I think I need to focus on focus!
 
