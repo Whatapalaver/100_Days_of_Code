@@ -5,6 +5,10 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D27
+More SQL today. Setting up procedures to tidy up the profiled plans at work. fathoming out how to amend the profile for indiviadual HRGs. I’m not really happy with the way I have structured my planning model. I am running from view to view and it makes it quite trickey to unpick where to make changes. I’d like to have a go at improving next year but I will have a new career then. 
+
+
 ### R1D26
 Dabbling with SQL today and started the CS50 Harvard course. Now need time to play with Scratch.
 
