@@ -5,6 +5,12 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D29
+Loads of SQL experimentation today. Quite sinple stuff, updating all my queries for the new year but it was good experience to practice version control and improving small bugs. 
+
+### R1D28
+Inspired by a fellow maker to retry Codewars. The advice was that solutions got fairly repetitive when you got the knack so worth persevering. Levelled up. 
+
 ### R1D27
 More SQL today. Setting up procedures to tidy up the profiled plans at work. fathoming out how to amend the profile for indiviadual HRGs. I’m not really happy with the way I have structured my planning model. I am running from view to view and it makes it quite trickey to unpick where to make changes. I’d like to have a go at improving next year but I will have a new career then. 
 
