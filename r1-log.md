@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D30
+More SQL at work. I re-worked one of Ola’s weekly procedures to get my own HRG level dataset. very frustrating / rewarding. its helped me sort out loads of problems with our reporting. Also conpleted a few more codewars kata. SQL again. I need to brave Ruby again. 
+
 ### R1D29
 Loads of SQL experimentation today. Quite sinple stuff, updating all my queries for the new year but it was good experience to practice version control and improving small bugs. 
 
