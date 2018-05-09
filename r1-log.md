@@ -6,7 +6,7 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 ## Log
 
 ### R1D31-33
-I met up with a fellow MA inline to try pair programming. We went thru some codewars kata, which I found particularly useful. Tim shared some tips and the technique of testing in Repl.it is a bit of a life safer. Next couple of days involved more kata and trying to get my head around the instructions for Interactive Ruby on github. Not sure I’m there yet. 
+I met up with a fellow MA online to try pair programming. We went thru some codewars kata, which I found particularly useful. Tim shared some tips and the technique of testing in Repl.it is a bit of a life safer. Next couple of days involved more kata and trying to get my head around the instructions for Interactive Ruby on github. Not sure I’m there yet. 
 
 ### R1D30
 More SQL at work. I re-worked one of Ola’s weekly procedures to get my own HRG level dataset. very frustrating / rewarding. its helped me sort out loads of problems with our reporting. Also conpleted a few more codewars kata. SQL again. I need to brave Ruby again. 
