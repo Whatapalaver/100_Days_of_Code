@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D34
+Working with excel VBA today. Re-working and commenting a script that enables me to split a workbook into component workbooks based on the field. value in a list. In this case I was splitting contract monitoring reports into 1 per commissioner or CCG. I will convert it to an instructional blog this afternoon. 
+
 ### R1D31-33
 I met up with a fellow MA online to try pair programming. We went thru some codewars kata, which I found particularly useful. Tim shared some tips and the technique of testing in Repl.it is a bit of a life safer. Next couple of days involved more kata and trying to get my head around the instructions for Interactive Ruby on github. Not sure I’m there yet. 
 
