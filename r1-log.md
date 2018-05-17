@@ -5,6 +5,9 @@ I've just quit my job and start the Makers Academy bootcamp in June, so #100days
 
 ## Log
 
+### R1D35
+Managed to sneak some time for codewars today. It’s amazing how quickly the problem solving sucks me in. Almost missed BJJ while I was struggling with nil values in arrays. 
+
 ### R1D34
 Working with excel VBA today. Re-working and commenting a script that enables me to split a workbook into component workbooks based on the field. value in a list. In this case I was splitting contract monitoring reports into 1 per commissioner or CCG. I will convert it to an instructional blog this afternoon. 
 
