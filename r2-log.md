@@ -9,6 +9,8 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 This is actually day 4 of the pre-course. i was in work yesterday doing a handover and only managed a small amount of very basic SQL - hardly counts as coding.
 Today I am back on the mastery-curriculum and have just finished writing a neat dice throwing match, using a while loop with conditionals. Onto FizzBuzz now if I can fathom out what that is...
 
+Well FizzBuzz proved to be reasonably straightforward at least in comparison to the fibonacci sequence. Chapter 4 also included a new code style checker and that was fuzzy! Frustrating. 
+
 ### R2D2
 Day 2 of Makers Academy and I finished the Week 1 workload by lunchtime. There are still loads of optional extras to work through on command line but I'm tempted to see how challenging the Ruby workload is while I have a chance of bagging some time.
 
