@@ -6,6 +6,12 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+## Whatapalaver's 100DaysofCode
+I started my first round of #100DaysofCode when I decided that I was going to be starting the Makers Academy bootcamp. I didn't exactly code everyday and I didn't maintain the log on all the days I coded. Nevertheless, it proved to be a good motivator for action and it is still interesting to see the progress and frustration levels over that time.
+
+In June 2018 I finally started on teh Makers Academy Pre-Course so I thought that would be a good time to start round 2.
+Here's my current log of progress: ./r2-log.md
+
 ## If you've decided to join:
 0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect 
 Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMjgyNTAzOTIwODM3LWJiZmIyYThhMmUyYzA3MmQyNDdjNWEwNjdiMWYyM2QwMzg3YjJlOWIzNzg2ZWVmY2M4ZGI5MDQ1NTgzM2Y3MjU) is a invite link to the 100DaysOfCode Slack channel
