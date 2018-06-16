@@ -5,6 +5,10 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D5
+Does playing with new themes for iTerm2 actually count as coding? If it helps I have really cool Terminal now! 
+I did solve the ruby tweet redaction puzzle that I struggled with yesterday so that definitely counts.
+
 ### R2D4
 If we don't count weekends (and who does?), we are already at the end of week 1. OMG. I am going to be a junior coder looking for a proper job before I can even blink.
 Today I was working on loop programs with a simple text based game.
