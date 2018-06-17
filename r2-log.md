@@ -5,6 +5,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D6
+I've been struggling with a challenge from the mastery-curriculum. We need to push a user specified list of names, sequentially into a user specified number of groups. I found this quite tricky until I decided to create a nested array with n arrays within the outer wrapper. I was quite pleased to have solved this one.
+
 ### R2D5
 Does playing with new themes for iTerm2 actually count as coding? If it helps I have really cool Terminal now! 
 I did solve the ruby tweet redaction puzzle that I struggled with yesterday so that definitely counts.
