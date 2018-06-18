@@ -8,6 +8,8 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 ### R2D7
 I have spent hours trying to solve the crocodile invested water problem today. Finally got a solution, splitting arrays and testing for presence of croc "C". I reckon it could be improved quite substantially but I'm feeling eager to move on. Hashes next.
 
+During the afternoon I spent more hours puzzling over the array of hashes question. If I was brave I would post something on Stack Overflow but they are pretty brutal over there.
+
 ### R2D6
 I've been struggling with a challenge from the mastery-curriculum. We need to push a user specified list of names, sequentially into a user specified number of groups. I found this quite tricky until I decided to create a nested array with n arrays within the outer wrapper. I was quite pleased to have solved this one.
 
