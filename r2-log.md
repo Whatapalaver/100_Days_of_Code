@@ -8,6 +8,7 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 ### R2D8
 I started the day with a walk to the allotment while I watered the crops while pondering the hash challenge waiting for me at home. It's what is known as "procrasta-gardening". Anyway, I cam home feeling fairly nervous about the the last hash challenge in the mastery-curriculum, but it was smooth(-ish) sailing. Job done!
 Onto methods now....
+Quite an intense afternoon trying to refactor my Blackjack methods so that they passed the test. I wrote a working program pretty quickly but ignored the instruction to keep my methods to a single task. You should be able to name a method without the requirement for an "and". I'm afraid all mine were multi-talented for a while.
 
 ### R2D7
 I have spent hours trying to solve the crocodile invested water problem today. Finally got a solution, splitting arrays and testing for presence of croc "C". I reckon it could be improved quite substantially but I'm feeling eager to move on. Hashes next.
