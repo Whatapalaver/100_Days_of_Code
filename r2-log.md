@@ -5,6 +5,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D9
+I finished the mastery curriculum today with the start of a simple todo program which demonstrated working with classes. Now its time to work on some extra Ruby tutorials. As we've spent quite a bit of time trying to fathom rspec error messages I've decided to give the [[Ruby Koans](http://rubykoans.com/) - route to enlightenment a go. It's proving interesting...
+
 ### R2D8
 I started the day with a walk to the allotment while I watered the crops while pondering the hash challenge waiting for me at home. It's what is known as "procrasta-gardening". Anyway, I cam home feeling fairly nervous about the the last hash challenge in the mastery-curriculum, but it was smooth(-ish) sailing. Job done!
 Onto methods now....
