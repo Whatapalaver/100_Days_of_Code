@@ -5,6 +5,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D11
+I'm away visiting my parents this weekend so haven't had much opportunity to code. I did work on some bug spotting for other students which is helpful for me and read more chapters of the Chris Pine book. In the sun. With beer....
+
 ### R2D10
 I'm still on the Ruby Koans. I'm sitting in Costa tethered to my phone's network while systmatically sticking in the right answer to satisfy the ruby deity. I'm not convinced if I'm learning enough on this course. The error messages give you the answer and while that might be part of the learning experience, I get it now, and have 200 more boxes to tick. There are some other bits and pieces being added to my knowledge base though so I will persevere for longer.
 
