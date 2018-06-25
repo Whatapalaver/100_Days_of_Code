@@ -5,6 +5,11 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D12
+I'm supposed to pair programming but haven't managed to arrange this yet. So instead I ran through the FizzBuzz exercise and set up the Rspec testing code on my own. I can only do equality checks at the moment and imagine rspec can get a lot mopre complex. 
+
+I also did some more codewars kata, these are getting remarkably easier to cope with which is a huge leap from those early days of having zero clues!
+
 ### R2D11
 I'm away visiting my parents this weekend so haven't had much opportunity to code. I did work on some bug spotting for other students which is helpful for me and read more chapters of the Chris Pine book. In the sun. With beer....
 
