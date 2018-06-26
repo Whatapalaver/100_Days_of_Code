@@ -5,6 +5,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D13
+I started the student-directory challenge today. It was pretty challenging. Designed to be a simple example of how to take a github project from strt to finish - it left me struggling with hashes or at least arrays of hashes yet again. I'm beginning to see a theme of hash mental blocks. I reviewed previous students commits and found a really good (understandable) solution by Simone. I reckon there is a fine line between cheating and admirable researching?
+
 ### R2D12
 I'm supposed to pair programming but haven't managed to arrange this yet. So instead I ran through the FizzBuzz exercise and set up the Rspec testing code on my own. I can only do equality checks at the moment and imagine rspec can get a lot mopre complex. 
 
