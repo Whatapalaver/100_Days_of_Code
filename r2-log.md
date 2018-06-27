@@ -5,6 +5,11 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D14
+I cemented quite a lot of knowledge with the student_directory challenge today. Saved and loaded data from csv files. Grasped the concept of ARGV (runtime arguments) and the then necessary specification of STDIN (standard input ie. keyboard) for .gets as otherwise it would default to the ARGV input. I also just about grasped the use of instance variables dfue to scope. While I've used these before I didn't realise we could bypass it by setting the variable (defined elsewhere) as an argument to a method.
+
+All good stuff. Plus. I combined the pomodoro method with sourdough production today as the timing was perfect for the dough folding stage.
+
 ### R2D13
 I started the student-directory challenge today. It was pretty challenging. Designed to be a simple example of how to take a github project from strt to finish - it left me struggling with hashes or at least arrays of hashes yet again. I'm beginning to see a theme of hash mental blocks. I reviewed previous students commits and found a really good (understandable) solution by Simone. I reckon there is a fine line between cheating and admirable researching?
 
