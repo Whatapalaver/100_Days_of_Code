@@ -5,6 +5,11 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D15
+I had a go at a React javascript tutorial today at [ReactJS](https://reactjs.org/tutorial/tutorial.html)
+I have a sense that I might have wasted my time. I barely understood what I was doing and just followed instructions blindly. I have learned that JS is riddled with brackets and semi-colons and de-bugging is going to be one heck of an arse! 
+I spent the afternoon pairing with another pre-course student. We rotated the navigation/driver roles and I found it to be pretty useful.
+
 ### R2D14
 I cemented quite a lot of knowledge with the student_directory challenge today. Saved and loaded data from csv files. Grasped the concept of ARGV (runtime arguments) and the then necessary specification of STDIN (standard input ie. keyboard) for .gets as otherwise it would default to the ARGV input. I also just about grasped the use of instance variables dfue to scope. While I've used these before I didn't realise we could bypass it by setting the variable (defined elsewhere) as an argument to a method.
 
