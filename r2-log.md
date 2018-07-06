@@ -5,6 +5,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D16
+I’ve returned to Chris Pine’s Learn to Program book and am working through Chapter 9. i enjoyed the Roman Numeral challenge and am now puzzling over a spin off - Roman Numeral Decoder. I’m finding it delightfully challenging. I know what I want it to do but I’m not sure how to do it. I suspect it will be a mix of slice! match and regex. Ughhh I hate regex. 
+
 ### R2D15
 I had a go at a React javascript tutorial today at [ReactJS](https://reactjs.org/tutorial/tutorial.html)
 I have a sense that I might have wasted my time. I barely understood what I was doing and just followed instructions blindly. I have learned that JS is riddled with brackets and semi-colons and de-bugging is going to be one heck of an arse! 
