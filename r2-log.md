@@ -5,6 +5,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D17
+Having met my Maker's mentor last night, I have been invigorated to try using TDD to control my solution to the roman numeral decoder challenge I'm working through. 
+
 ### R2D16
 I’ve returned to Chris Pine’s Learn to Program book and am working through Chapter 9. i enjoyed the Roman Numeral challenge and am now puzzling over a spin off - Roman Numeral Decoder. I’m finding it delightfully challenging. I know what I want it to do but I’m not sure how to do it. I suspect it will be a mix of slice! match and regex. Ughhh I hate regex. 
 
