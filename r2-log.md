@@ -5,6 +5,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D19
+First day onsite with Makers today. Loads of set up and introductions but in the afternoon we started on the pairing process. Each day we will shift to a new colleague to pair with. Today it went well. We attempted the driver navigator technique as we puzzled through hash transformations. I realised I need to get a grip with enumerable so that I can explain exactly what .inject does rather than just copying it verbatim. Learnings today were setting up our first github repo with collaboration. Initially we went for the approached of each using the same remote. I'm sure we will move to forked repos, branches and ultimate merging, but slowly, slowly. If I don't drink too much wine this evening I will also suss out enumerable.....
+
 ### R2D18
 Last day before the onsite main course starts at Makers tomorrow!
 I finished the roman_decoder, refactoring to use my nemesis - hashes....
