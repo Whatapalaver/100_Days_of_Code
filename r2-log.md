@@ -5,6 +5,13 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D21
+Day 3 of the onsite Makers course. We started getting to grips with TDD and after my work through of the Boris Bike challenge it finally clicked for me the linkage between feature tests (derived direct from user story) to unit tests written in rspec. i spent the morning drawing a TDD decision tree. 
+
+The afternoon was back to pairing on BB with a new colleague. we had to go back a few stages so I wasnt driving. I find it very hard to maintain focus for a whole afternoon when not in control. 
+
+I learnt that rspec is way more intelligent than I had given in credit for. It has me licked and I now need to spend time getting to grips with it. 
+
 ### R2D20
 Started the morning recapping hashes and discovered why some of my attempts weren't working yesterday. In some cases I had the syntax setup correctly but I was having a problem with the return - sometime you have to specificy it directly. Its a good lesson to make sure you understand why something fails rather than just rejecting it and randomly testing out other random shit.
 
