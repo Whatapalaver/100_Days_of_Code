@@ -5,6 +5,16 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D22
+
+Started the day worried about my rspec abilities after leaving last night with a messy spec file and a failing test. After literally hours I discovered that the failure was down to a simple cock-Up in the way I described the path to a required file. Everything else was fine. 
+
+Still, by then I had identified a perceived rspec ineptitude and had bought a new book “Effective Testing with RSpec3”. Yawn. I jumped between the book and a practice dice app that we were using to practice test writing. 
+
+I managed to write a test that approximated a test for randomness. Was the dice roll actually random or convincingly not non-random?
+
+Pair programming in the afternoon which ended up being mainly chat. Very interesting chat with a little bit of code. It helped me to try and run through some conceptual struggles with my pair and challenged my understanding. 
+
 ### R2D21
 Day 3 of the onsite Makers course. We started getting to grips with TDD and after my work through of the Boris Bike challenge it finally clicked for me the linkage between feature tests (derived direct from user story) to unit tests written in rspec. i spent the morning drawing a TDD decision tree. 
 
