@@ -5,6 +5,19 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D24
+Start of the weekend challenge today - [The Airport Challenge](https://github.com/Whatapalaver/airport_challenge)
+First learning was how to set up a feature test in RSpec (as well as the unit test) so that I don't have to deal with all that irritating repetition in irb.
+
+### R2D23
+Again I had a morning of RSpec and TDD. The whole process really impresses me it's like the David Allen "GTD" approach to code. By iterating through failing tests that you intentially create you steer yourself through complex projects step by step, only ever revealing the next obvious step. It's a great way to avoid overwhelm.
+
+Had a nice challenge of testing between `return`s a value and `puts` a value for our test calculator app.
+
+Also flipped over to using VSCode as my test editor although I'm super uncomfortable about sullying my macbook with microsoft apps.
+
+More pairing in the afternoon. I was with a focussed go-getter today so we stormed ahead, ticking off tasks in no time. Really productive for me and I learned some cool methods for grouping and describing RSpec tests around th method or class being tested. That gave me the structure and organisation that I felt had been missing from my test scripts. 
+
 ### R2D22
 
 Started the day worried about my rspec abilities after leaving last night with a messy spec file and a failing test. After literally hours I discovered that the failure was down to a simple cock-Up in the way I described the path to a required file. Everything else was fine. 
