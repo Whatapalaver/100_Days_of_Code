@@ -1,10 +1,9 @@
 # I've joined the #100DaysOfCode Challenge.
 
-## If you've decided to join:
-0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect 
-Also, [here]
+If you've decided to join:
+Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect 
 
-## Whatapalaver's 100DaysofCode
+### Whatapalaver's 100DaysofCode
 I started my first round of #100DaysofCode when I decided that I was going to be starting the Makers Academy bootcamp. I didn't exactly code everyday and I didn't maintain the log on all the days I coded. Nevertheless, it proved to be a good motivator for action and it is still interesting to see the progress and frustration levels over that time.
 You can see that log here: [Round 1 Log](./r1-log.md)
 
