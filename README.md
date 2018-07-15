@@ -14,6 +14,12 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D25
+I've now spent hours on the airport challenge, and still not finished - phew!
+I now understand stubbing for things like removing randomeness from methods so you can test specific cases.
+Used a lot of describe classifications and contexts to neaten up the RSpec tests and make the read out more informative.
+I need to update my github gists with some RSpec examples.
+
 ### R2D24
 Start of the weekend challenge today - [The Airport Challenge](https://github.com/Whatapalaver/airport_challenge)
 First learning was how to set up a feature test in RSpec (as well as the unit test) so that I don't have to deal with all that irritating repetition in irb.
