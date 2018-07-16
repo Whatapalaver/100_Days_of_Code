@@ -14,6 +14,12 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D26
+Start of Week 2 of the Makers course.
+Had a code review in the morning and went through my solution for the airport challenge. Had some good suggestions for improving RSpec test readability.
+Started the [Oystercard challenge](https://github.com/Whatapalaver/oyster_card) 
+Updated my [RSpec gist](https://gist.github.com/Whatapalaver/8fee69a56a2c519f45bdcdaf07b886c6)
+
 ### R2D25
 I've now spent hours on the airport challenge, and still not finished - phew!
 I now understand stubbing for things like removing randomeness from methods so you can test specific cases.
