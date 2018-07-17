@@ -14,6 +14,11 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D27
+We had a session on encapsulation this morning and then went onto the [solo skills challenge](https://github.com/Whatapalaver/secret_diary) to prepare a single class SecretDiary app and then split it into multiple classes using the principles of single responsibility, all using TDD of course. This was really useful for me as I'm still pretty nervous about the communication between methods across classes. 
+
+More pairing on the Oystercard challenge this afternoon.
+
 ### R2D26
 Start of Week 2 of the Makers course.
 Had a code review in the morning and went through my solution for the airport challenge. Had some good suggestions for improving RSpec test readability.
