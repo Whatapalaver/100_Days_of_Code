@@ -14,6 +14,15 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D30
+this is the end if week 2 at Makers. I’ve managed to miss a few days of logging but coding was happening at pace. 
+
+Today we spent the pairing session discussing a very tricky stage of the Oyster card challenge. it was class xtraction and the handling of penalty fairs for edge cases. we discussed loads and tied ourselves up. 
+
+After a break I was able to see we were on track and a little tweaking delivered me a working model. 
+
+I have a few things left to tweak now but it was a good result. 
+
 ### R2D27
 We had a session on encapsulation this morning and then went onto the [solo skills challenge](https://github.com/Whatapalaver/secret_diary) to prepare a single class SecretDiary app and then split it into multiple classes using the principles of single responsibility, all using TDD of course. This was really useful for me as I'm still pretty nervous about the communication between methods across classes. 
 
