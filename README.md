@@ -14,8 +14,12 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D32
+A full day of frustrating coding today, continuing with the Takeaway Challenge that I started yesterday. The idea was to create an order from a menu of available items and to use the twilio api to send a confirmation text message.
+I decided that the api implementation was key to the challenge and so moved to that when it become clear I could spend the whole day messing with hashes. I learned how to use ENV variables with dotenv and also how to delete GitHub history after I discovered I had shared sensitive information online.
+
 ### R2D30
-this is the end if week 2 at Makers. I’ve managed to miss a few days of logging but coding was happening at pace. 
+This is the end if week 2 at Makers. I’ve managed to miss a few days of logging but coding was happening at pace. 
 
 Today we spent the pairing session discussing a very tricky stage of the Oyster card challenge. it was class xtraction and the handling of penalty fairs for edge cases. we discussed loads and tied ourselves up. 
 
