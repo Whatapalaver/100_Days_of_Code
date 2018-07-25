@@ -14,6 +14,15 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D35 (25th July)
+Continuing with Battle. Separating views (erb files) from control (app.rb) and the model (ruby classes and methods within lib). I'm wondering if this is the MVC concept in action?
+
+### R2D34
+Started work on the Battle challenge. A game of attack built on Sinatra with Capybara for testing web based features.
+
+### R2D33
+Start of Makers week 3 and the introduction to web. We were building our first form with sinatra.
+
 ### R2D32
 A full day of frustrating coding today, continuing with the Takeaway Challenge that I started yesterday. The idea was to create an order from a menu of available items and to use the twilio api to send a confirmation text message.
 I decided that the api implementation was key to the challenge and so moved to that when it become clear I could spend the whole day messing with hashes. I learned how to use ENV variables with dotenv and also how to delete GitHub history after I discovered I had shared sensitive information online.
