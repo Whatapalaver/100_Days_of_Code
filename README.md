@@ -14,6 +14,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D36
+More work on the Battle web game. Mapping out the flow between POST and viewable GETs. Now its time to add some true game play functionality - at the moment the first player always wins, which is a little tedious for Player2. I also need to fathom out what the global variable crime is - my code is littered.
+
 ### R2D35 (25th July)
 Continuing with Battle. Separating views (erb files) from control (app.rb) and the model (ruby classes and methods within lib). I'm wondering if this is the MVC concept in action?
 
