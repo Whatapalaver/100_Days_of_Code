@@ -14,14 +14,21 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D37
+Still working on Battle. I've implemented the computer opponent functionality but I am now mixing the control in the view (erb files). I'm going to have to seek some support with that to find a different solution.
+I've sussed out how to link the erb files to an external stylesheet. This [Medium post](https://medium.com/@kerenlerner/how-to-include-images-css-and-or-javascript-in-your-sinatra-web-application-45e2ebbfa75f) helped.
+I have some styling, but nothing to write home about....
+
 ### R2D36
-More work on the Battle web game. Mapping out the flow between POST and viewable GETs. Now its time to add some true game play functionality - at the moment the first player always wins, which is a little tedious for Player2. I also need to fathom out what the global variable crime is - my code is littered.
+More work on the Battle web game. Mapping out the flow between POST and viewable GETs. Now its time to add some true game play functionality - at the moment the first player always wins, which is a little tedious for Player2. I also need to fathom out what the global variable crime is - my code is littered. 
+
+Struggling to model the exact flow I'm after. I'm trying to have the option of a computer opponent and therefore need to automate their play. It seems that I can't redirect to a POST method, so would need some form of user interaction eg. button press to trigger the computers move. That doesn't sound ideal.
 
 ### R2D35 (25th July)
 Continuing with Battle. Separating views (erb files) from control (app.rb) and the model (ruby classes and methods within lib). I'm wondering if this is the MVC concept in action?
 
 ### R2D34
-Started work on the Battle challenge. A game of attack built on Sinatra with Capybara for testing web based features.
+Started work on the [Battle challenge](https://github.com/Whatapalaver/battle). A game of attack built on Sinatra with Capybara for testing web based features.
 
 ### R2D33
 Start of Makers week 3 and the introduction to web. We were building our first form with sinatra.
