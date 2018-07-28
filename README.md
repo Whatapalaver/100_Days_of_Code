@@ -14,6 +14,10 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D38
+Start of the weekend challenge - Rock, Paper, Scissors web app.
+I got all the implementation stuff done before I realised I'd left my macbook charger at Makers! I ended up spending the day on the main computer just reminding myself how flexbox works and prepping the style sheets for when I was able to start back on RPS.
+
 ### R2D37
 Still working on Battle. I've implemented the computer opponent functionality but I am now mixing the control in the view (erb files). I'm going to have to seek some support with that to find a different solution.
 I've sussed out how to link the erb files to an external stylesheet. This [Medium post](https://medium.com/@kerenlerner/how-to-include-images-css-and-or-javascript-in-your-sinatra-web-application-45e2ebbfa75f) helped.
