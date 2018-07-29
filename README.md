@@ -14,6 +14,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D39
+Finished the Rock, Paper, Scissors web app. It was a pretty good challenge, particularly the annoyance of trying to get variables to pass between elements of the program.
+
 ### R2D38
 Start of the weekend challenge - Rock, Paper, Scissors web app.
 I got all the implementation stuff done before I realised I'd left my macbook charger at Makers! I ended up spending the day on the main computer just reminding myself how flexbox works and prepping the style sheets for when I was able to start back on RPS.
