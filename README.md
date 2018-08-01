@@ -14,6 +14,18 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D42
+
+### R2D41
+More work on the Bookmark Manager today. We dealt with the setup of multiple environments so we could have a test one for running our RSpec and Capybara tests - without this the tests roisked failing if we were expecting to see a specific URL which had been deleted by the user in Production.
+I messed up my code with a Environment = 'Test' rather than Environment == 'Test' and took me a while (with assistance) to fathom. Learned a new trick of riddling code with p to print to the server console.
+Also, installed Sinatra Flash which we should be able to use to pass messages to the view.
+
+### R2D40 - Monday Week 4 @ Makers
+Today we start on database integration, which I am really excited about.
+The weekly challenge is to create a [Bookmark Manager](https://github.com/Whatapalaver/bookmark_manager) based on a Sinatra framework with connection to PostgreSQL. I love SQL!!!
+We whizzed through th eafternoon setting up the infrastructure and the connections.
+
 ### R2D39
 Finished the Rock, Paper, Scissors web app. It was a pretty good challenge, particularly the annoyance of trying to get variables to pass between elements of the program.
 
