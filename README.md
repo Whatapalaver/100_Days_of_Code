@@ -14,10 +14,17 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D44 - Monday Week 4 @ Makers
+Struggling to use PATCH im my app.rb rather than just POST and GET. At least I got to learn about forking on GitHub so I could roll back to square one without losing everything.
+
+### R2D43
+Mostly assisting other with their code today but that helped to cement my knowledge of testing vs production environments. Also learnt some cool debugging techniques. Get visibility. Tighten the loop. Save_andOpen_Page really helps in capybara.
+
 ### R2D42
+Loads of progress made with the bookmark manager today.
 
 ### R2D41
-More work on the Bookmark Manager today. We dealt with the setup of multiple environments so we could have a test one for running our RSpec and Capybara tests - without this the tests roisked failing if we were expecting to see a specific URL which had been deleted by the user in Production.
+More work on the Bookmark Manager today. We dealt with the setup of multiple environments so we could have a test one for running our RSpec and Capybara tests - without this the tests risked failing if we were expecting to see a specific URL which had been deleted by the user in Production.
 I messed up my code with a Environment = 'Test' rather than Environment == 'Test' and took me a while (with assistance) to fathom. Learned a new trick of riddling code with p to print to the server console.
 Also, installed Sinatra Flash which we should be able to use to pass messages to the view.
 
