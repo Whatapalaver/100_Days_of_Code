@@ -14,7 +14,13 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
-### R2D44 - Monday Week 4 @ Makers
+### R2D46
+Still on the weekend challenge to recreate twitter. I'm learning some debugging skills as my program is riddled. I'm learning stress avoidance tactics like swinging in the hammock while trying not to go insane. On a more positive note I have also implemented a sign up feature with encrypted passwords.
+
+### R2D45
+I started the Chitter Challenge today and went to bed at midnight with the most irritating database connection failure that I just couldn't fathom. Deep frustration. I did manage to set up the whole sinatra, PSQL, capybara stack in record time though.
+
+### R2D44 - Friday Week 4 @ Makers
 Struggling to use PATCH im my app.rb rather than just POST and GET. At least I got to learn about forking on GitHub so I could roll back to square one without losing everything.
 
 ### R2D43
