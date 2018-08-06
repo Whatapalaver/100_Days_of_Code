@@ -14,6 +14,10 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D47 - Monday Week 5 @ Makers
+It's the start of javascript week and I am nervous. Feels like we are starting from scratch again. So far it hasn't actually proved to be too bad although addition is odd in JS and I cannot be doing with brackets and semi-colons! (){};
+***ks ****!
+
 ### R2D46
 Still on the weekend challenge to recreate twitter. I'm learning some debugging skills as my program is riddled. I'm learning stress avoidance tactics like swinging in the hammock while trying not to go insane. On a more positive note I have also implemented a sign up feature with encrypted passwords.
 
