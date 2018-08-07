@@ -14,6 +14,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D48
+Taking the learning of new languages to an all-new level today. Rattling off the codewars FizzBuzz kata in JavaScript, Coffeescript and Python. The latter two are much, much more appealing than JS!
+
 ### R2D47 - Monday Week 5 @ Makers
 It's the start of javascript week and I am nervous. Feels like we are starting from scratch again. So far it hasn't actually proved to be too bad although addition is odd in JS and I cannot be doing with brackets and semi-colons! (){};
 ***ks ****!
