@@ -14,8 +14,17 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D50
+I started working with [exercism.io](https://exercism.io/) today. I don't feel particularly confident in either Ruby or JavaScript at the moment, and as we actually do very little language practice at Makers, I thought I'd use this for morning practice.  
+I found it pretty difficult to set up the CLI and then submit a basic "Hello Worl" solution so it doesn't bode well for my ongoing language development.
+
+### R2D49
+Great pairing session today using the ping pong method. Where we each set a test for the other to pass and rotate. 
+We started on the javascript thermostat challenge which will hopefully develop a GUI before the week is up. 
+Getting used to a new testing framework (Jasmine) while getting used to the intricacies of JS is interesting...
+
 ### R2D48
-Taking the learning of new languages to an all-new level today. Rattling off the codewars FizzBuzz kata in JavaScript, Coffeescript and Python. The latter two are much, much more appealing than JS!
+Taking the learning of new languages to an all-new level today. Rattling off the codewars FizzBuzz kata in JavaScript, Coffeescript and Python. The latter two are much, much more appealing than JS! Attempting the same challenge in Haskell sent me into a tailspin and I decided life was too short or at least my bootcamp experience wasn't long enough to support this learning curve....
 
 ### R2D47 - Monday Week 5 @ Makers
 It's the start of javascript week and I am nervous. Feels like we are starting from scratch again. So far it hasn't actually proved to be too bad although addition is odd in JS and I cannot be doing with brackets and semi-colons! (){};
