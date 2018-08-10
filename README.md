@@ -14,6 +14,14 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D51 - Friday week 5 Makers. 
+We had a workshop to discuss callbacks in JS and ended up covering some debugging and flow  monitoring using console.log()
+In the afternoon I went back to basic Ruby with exercism and then got slightly derailed by the 99bottles of beer challenge (Sandi Metz). That challenge did not help my confidence levels as I was stumped on the first test which required me to return a string across multiple lines. FFS. Why is that so difficult. I learnt about <<~HEREDOC
+
+Interesting but really ugly. Alice saved the day by showing that I could use .join with a “\n” newline character as the join. 
+
+Also had an inspiring conversation about futures that left me thinking that I might be able to explore my interest in data mining, machine learning and AI. 
+
 ### R2D50
 I started working with [exercism.io](https://exercism.io/) today. I don't feel particularly confident in either Ruby or JavaScript at the moment, and as we actually do very little language practice at Makers, I thought I'd use this for morning practice.  
 I found it pretty difficult to set up the CLI and then submit a basic "Hello Worl" solution so it doesn't bode well for my ongoing language development.
