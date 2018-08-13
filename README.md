@@ -15,7 +15,12 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 ## Log
 
 ### R2D54 - Monday week 6 Makers.
-It's the start of group work.....
+Today marked the start of our first group project where we are tasked with the creation process - an AirBNB clone. The main challenge though is the development of “working together” skills. 
+
+We are following the agile approach, which involves morning stanups and evening retros. Our focus is on shared team goals and learning! AirBNB will be a lucky side plate. 
+I was lucky in the group draw. 4 people from the cohort were absent for the first day and therefore an immediate training burden on the rest of the team. We had a full complement and each member seems to have a similar high level of commitment which helps to keep the strife levels low. 
+
+Tech problems are high so far. We have opted to run this in JS with node, express and PG and spent an inordinate amount of time installing and connecting. The database connection is not up and running yet and I have concerns.....
 
 ### R2D53
 In the interest of getting upto speed with JS, I spent much of the day powering through the TreeHouse course on Javascript. Juggling instruction in ES6 while coding in ES5 is tricky....
