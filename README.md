@@ -14,9 +14,15 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
-### R2D52
+### R2D54 - Monday week 6 Makers.
+It's the start of group work.....
 
-Today marked the start of the Bowling Scorer challenge which required considerable cogitating on the rules of tenpin. Determining the user story was quite tricky.
+### R2D53
+In the interest of getting upto speed with JS, I spent much of the day powering through the TreeHouse course on Javascript. Juggling instruction in ES6 while coding in ES5 is tricky....
+By 6pm I felt ready to finally start digging into to the logic of the coding challenge. Not a huge amount of progress made.
+
+### R2D52
+Today marked the start of the Bowling Scorer challenge which required considerable cogitating on the rules of tenpin. Determining the user story was quite tricky. Configuring ESLint to deal with the ES5 version of javascript that we use at Makers was even worse and don't get me started on the hours wasted trying to get Jasmine to communicate with my src files.
 
 ### R2D51 - Friday week 5 Makers. 
 We had a workshop to discuss callbacks in JS and ended up covering some debugging and flow  monitoring using console.log()
