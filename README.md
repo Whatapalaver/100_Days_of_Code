@@ -14,10 +14,20 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D56
+I missed yesterday’s update of the groupwork progress but the big win of the day was figuring out how to automate the DB connection and setup with a Jake file. That made me very happy. 
+
+Today in contrast, was shit. We did our Agile standup session this morning, and planned the day, allocating tasks out. By mid-morning it had become clear, that sub-team A had discovered all my tasks were dependencies of their own task and so had just rattled them off before moving on to more exciting stuff. 
+
+My morning was cast asunder - to a wasteland of thwarted efforts.
+
+Life did pick up in the afternoon following an emergency retro and realignment of tasks but I think we have much to learn on team work and task optimisation. 
+
 ### R2D54 - Monday week 6 Makers.
 Today marked the start of our first group project where we are tasked with the creation process - an AirBNB clone. The main challenge though is the development of “working together” skills. 
 
-We are following the agile approach, which involves morning stanups and evening retros. Our focus is on shared team goals and learning! AirBNB will be a lucky side plate. 
+We are following the agile approach, which involves morning standups and evening retros. Our focus is on shared team goals and learning! AirBNB will be a lucky side plate. 
+
 I was lucky in the group draw. 4 people from the cohort were absent for the first day and therefore an immediate training burden on the rest of the team. We had a full complement and each member seems to have a similar high level of commitment which helps to keep the strife levels low. 
 
 Tech problems are high so far. We have opted to run this in JS with node, express and PG and spent an inordinate amount of time installing and connecting. The database connection is not up and running yet and I have concerns.....
