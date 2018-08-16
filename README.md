@@ -14,12 +14,19 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D57
+I was a bit nervous this morning about how the compromising would work with th eongoing group task. In the end it proved to be a non issue, as we all aligned with tasks that suited us. I ended up working on the unit tests and a series of JS frustrations. We spent hours randomly adding JS snippets in the hope that eventually we would hit upon working code. Rather like the monkeys attempting to recreate the complete works of Shakespeare. 
+
+In the end we engaged the help of coaches who were fantastic today and introduced us to a variety of JS horrors like: promises, asynchronicity, node vs browser JS. I wanted to stick my hands over my ears and shout lah, lah, lah but some of it slipped in and settled in my cortex. I think I may gradually be 'getting it'. I have confidence that tomorrow we will be able to return some actual SQL code rather than just a pending promise.
+
+There's a tiny bit of me that is starting to like this monster called javascript.
+
 ### R2D56
 I missed yesterday’s update of the groupwork progress but the big win of the day was figuring out how to automate the DB connection and setup with a Jake file. That made me very happy. 
 
 Today in contrast, was shit. We did our Agile standup session this morning, and planned the day, allocating tasks out. By mid-morning it had become clear, that sub-team A had discovered all my tasks were dependencies of their own task and so had just rattled them off before moving on to more exciting stuff. 
 
-My morning was cast asunder - to a wasteland of thwarted efforts.
+My morning was cast asunder - to a wasteland of thwarted efforts and a gazillion merge conflicts.
 
 Life did pick up in the afternoon following an emergency retro and realignment of tasks but I think we have much to learn on team work and task optimisation. 
 
