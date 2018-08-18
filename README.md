@@ -14,6 +14,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D58 Friday Wk 6
+The first challenge today was to understand promises sufficiently to get an output of our query to the database. We thought we also had to suss out database pooling but in the end we got around that by creating multiple connection clients. I don't entirely understand that but I suspect it is not ideal. We also threw out the EJS templating engine in favour of Mustache, for no better reason than I was following a tutorial that used it. Changing the techbase is easy enough to do but creates much more work than you would expect - in this case all our views had to be renamed and redirects updated, we also had to fathom out how to reuse the EJS partials. So, loads of problems today but we worked together well to tick some of them off and have a huge list a questions yet to be answered/understood. 
+
 ### R2D57
 I was a bit nervous this morning about how the compromising would work with th eongoing group task. In the end it proved to be a non issue, as we all aligned with tasks that suited us. I ended up working on the unit tests and a series of JS frustrations. We spent hours randomly adding JS snippets in the hope that eventually we would hit upon working code. Rather like the monkeys attempting to recreate the complete works of Shakespeare. 
 
