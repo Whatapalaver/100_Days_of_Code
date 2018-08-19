@@ -14,6 +14,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D59 Weekend Challenge  
+This was a particularly tricky challenge as the logic behind ten pin bowling is deceptively complex. I initially went down the route of manintaing a frame and roll history that worked very well until I had to handle the final frame scoring. At that point my code expanded to about double the original lines and I decided there must be a more efficient route. Enter Uncle Bob and the bowling kata. Two solutions are presented in the repo. [Bowling Scorecard](https://github.com/Whatapalaver/bowling-challenge). No time to produce a GUI which is a shame.
+
 ### R2D58 Friday Wk 6
 The first challenge today was to understand promises sufficiently to get an output of our query to the database. We thought we also had to suss out database pooling but in the end we got around that by creating multiple connection clients. I don't entirely understand that but I suspect it is not ideal. We also threw out the EJS templating engine in favour of Mustache, for no better reason than I was following a tutorial that used it. Changing the techbase is easy enough to do but creates much more work than you would expect - in this case all our views had to be renamed and redirects updated, we also had to fathom out how to reuse the EJS partials. So, loads of problems today but we worked together well to tick some of them off and have a huge list a questions yet to be answered/understood. 
 
