@@ -14,6 +14,16 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D61
+Today was another bad day with javascript. We are supposed to be creating a web app without the use of frameworks or libraries and have started with test driven development without Jasmine or equivalent. That requires us to recreate a test framework in Vanilla JS. I have just about manage to create something that works in the console but attempting to get that info onto a web page - perhaps a page that shows all the tests in one go - is just an horrific prospect.
+
+It appears to require me to know about the DOM and how to access elements. It feels like the stuff JS was made for but somehow I have managed to bypass the actualJS Mind-Meld that my colleagues seem to have absorbed.
+
+Truly out off-depth, overwhelming and despairing feelings are taking over again......
+
+### R2D60 Monday - Week 7 Makers
+We are spending a week reinforcing our very shakey knowledge of Javascript. 
+
 ### R2D59 Weekend Challenge  
 This was a particularly tricky challenge as the logic behind ten pin bowling is deceptively complex. I initially went down the route of manintaing a frame and roll history that worked very well until I had to handle the final frame scoring. At that point my code expanded to about double the original lines and I decided there must be a more efficient route. Enter Uncle Bob and the bowling kata. Two solutions are presented in the repo. [Bowling Scorecard](https://github.com/Whatapalaver/bowling-challenge). No time to produce a GUI which is a shame.
 
