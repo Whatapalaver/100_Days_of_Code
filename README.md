@@ -14,12 +14,23 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D63
+Today was a revelation...
+Two hours sitting with a coach and going through some of my current mind-blocks: objects, properties (that are also functions), IIFY, module pattern, exports. If I could just bottle that feeling of comprehension I had at the end then I think I could sail through the rest of the course in contentment. 
+
+I spent the afternoon trying to recap some of the morning enlightenment and felt happy enough with the testing framework progress to move on.
+
+### R2D62
+More fumbling in the dark corners of javascript. Puzzling over the multitude of ways to write a JS function and never quite stumbling on the right combination of characters to get the darn thing to work. Fortunately I was paired with someone who had a bit of a grasp today and I managed to come away with a few wins: how to style the terminal console and one example of a working test.
+
+I spent the evening reviewing javascript control of the DOM.
+
 ### R2D61
-Today was another bad day with javascript. We are supposed to be creating a web app without the use of frameworks or libraries and have started with test driven development without Jasmine or equivalent. That requires us to recreate a test framework in Vanilla JS. I have just about manage to create something that works in the console but attempting to get that info onto a web page - perhaps a page that shows all the tests in one go - is just an horrific prospect.
+Today was another bad day with javascript. We are supposed to be creating a web app without the use of frameworks or libraries and have started with test driven development without Jasmine or equivalent. That requires us to recreate a test framework in Vanilla JS. I have just about managed to create something that works in the console but attempting to get that info onto a web page - perhaps a page that shows all the tests in one go - is just an horrific prospect.
 
-It appears to require me to know about the DOM and how to access elements. It feels like the stuff JS was made for but somehow I have managed to bypass the actualJS Mind-Meld that my colleagues seem to have absorbed.
+It appears to require me to know about the DOM and how to access elements. It feels like the stuff JS was made for but somehow I have managed to bypass the actualJS mind-meld that my colleagues seem to have absorbed.
 
-Truly out off-depth, overwhelming and despairing feelings are taking over again......
+Truly out of-depth, overwhelming and despairing feelings are taking over again......
 
 ### R2D60 Monday - Week 7 Makers
 We are spending a week reinforcing our very shakey knowledge of Javascript. 
