@@ -17,6 +17,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 ### R2D66 Weekend Challenge - News Summary
 I spent most of the day trying to refine the Notes app challenge while I was trying to get to grips with the flow in a single-page website. I felt this might be more useful than bombarding the Guardian api while I tried to fathom out what the heck I was supposed to be doing. I have set up a homepage for my newsfeed but now I need to get to grips JSON and other delights. I wonder if a smallish G&T would be a help or hindrance.
 
+![The gin don't hurt]("http://whatapalaver.co.uk/wp-content/uploads/2018/08/img_5045-2.jpg"){:height="30%" width="30%"}
+
+Well, as it happens, the gin didn't hurt too much. I spent much of the evening reviewing single page architecture and sketching out what my news app might look like. I came across a rather [perfect medium blog](https://medium.com/@patrickackerman/classic-front-end-mvc-with-vanilla-javascript-7eee550bc702) on the subject and feel I can now retire for the evening with a colourfully sketched out plan and a greater understaning of MVC.
 
 ### R2D65 Weekend Challenge Time
 I'm still trying to catch up with the weeks pairing challenge and juggling DOM tutorials. I feel like I get it but everytime I try and put it into action I flounder.
