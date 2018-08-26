@@ -14,9 +14,18 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D66 Weekend Challenge - News Summary
+
+
+### R2D65 Weekend Challenge Time
+I'm still trying to catch up with the weeks pairing challenge and juggling DOM tutorials. I feel like I get it but everytime I try and put it into action I flounder.
+
+### R2D64
+Finally started the notes app and practised using javascript to control the DOM. My struggles throughout this week are going to seriously hamper my chances with the weekend project.
+
 ### R2D63
 Today was a revelation...
-Two hours sitting with a coach and going through some of my current mind-blocks: objects, properties (that are also functions), IIFY, module pattern, exports. If I could just bottle that feeling of comprehension I had at the end then I think I could sail through the rest of the course in contentment. 
+Two hours sitting with a coach and going through some of my current mind-blocks: objects, properties (that are also functions), IIFE, module pattern, exports. If I could just bottle that feeling of comprehension I had at the end then I think I could sail through the rest of the course in contentment. 
 
 I spent the afternoon trying to recap some of the morning enlightenment and felt happy enough with the testing framework progress to move on.
 
