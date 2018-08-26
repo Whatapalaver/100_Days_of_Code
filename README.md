@@ -15,6 +15,7 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 ## Log
 
 ### R2D66 Weekend Challenge - News Summary
+I spent most of the day trying to refine the Notes app challenge while I was trying to get to grips with the flow in a single-page website. I felt this might be more useful than bombarding the Guardian api while I tried to fathom out what the heck I was supposed to be doing. I have set up a homepage for my newsfeed but now I need to get to grips JSON and other delights. I wonder if a smallish G&T would be a help or hindrance.
 
 
 ### R2D65 Weekend Challenge Time
