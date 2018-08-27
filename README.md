@@ -14,8 +14,15 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D67 Bank Hol Monday - Weekend Challenge Extension
+My sketches and prep from last night work wonders for my productivity today.
+I felt like the whole MVC architecture made sense and I was able to piece my code together with feeling as though I was lobbing matchsticks in the air for a game of pick up sticks.
+The api remained somewhat of a mystery to me so I pretty much copied that from CLPayne and amended for my slightly different structure.
+
+I've got to the end of the day with a functioning headline generator. I need to action the single page functionality by use hashchanges etc but I may have to leave this for later as I want to run through the Ruby on Rails tutorial.
+
 ### R2D66 Weekend Challenge - News Summary
-I spent most of the day trying to refine the Notes app challenge while I was trying to get to grips with the flow in a single-page website. I felt this might be more useful than bombarding the Guardian api while I tried to fathom out what the heck I was supposed to be doing. I have set up a homepage for my newsfeed but now I need to get to grips JSON and other delights. I wonder if a smallish G&T would be a help or hindrance.
+I spent most of the day trying to refine the Notes app challenge while I was trying to get to grips with the flow in a single-page website. I felt this might be more useful than bombarding the Guardian api while I tried to fathom out what the heck I was supposed to be doing. I have set up a homepage for my newsfeed but now I need to get to grips with JSON and other delights. I wonder if a smallish G&T would be a help or hindrance.
 
 ![gin pic](http://whatapalaver.co.uk/wp-content/uploads/2018/08/img_5045-2.jpg)
 
