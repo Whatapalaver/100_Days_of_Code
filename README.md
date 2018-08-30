@@ -14,6 +14,19 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D70
+We had team absences today so I found myself working alone on the final stages of the signup and got myself snarled up in the intricacies of password_digest and has_secure_password. One of the coaches suggested we should have gone down the 'devize' route i.e. the plugin route of least resistance as that would have freed us up to be working on cool features like messaging and groups etc. Doh! I guess I'll be working with Devize this weekend.
+The afternoon was not terribly productive either as I wasted time unsuccessfully implementing feature tests. Boring.
+
+### R2D69
+Day 2 already and the main challenge is to sort out user authentication (signup/login). Rails seems to have an app for everything but I pushed for us to avoid the easy route in favour of designing our own user authentication directly on rails (with bcrypt). My argument was that rails was entirely new and if we just go made installing one plugin after an other until we have a working app, we risked knowing no more at the end of the week than we did at the start.
+I would soon regret this....
+
+### R2D68 Start of the 2 week Engineering Project
+It was with some trepidation that arrived onsite for the announcement of the new teams.
+I was pretty darn lucky though and we moved through planning to ticking off tasks at quite a rate.
+The challenge is to create a facebook rival in Ruby on Rails, a wholly new framework for us all. 
+
 ### R2D67 Bank Hol Monday - Weekend Challenge Extension
 My sketches and prep from last night work wonders for my productivity today.
 I felt like the whole MVC architecture made sense and I was able to piece my code together with feeling as though I was lobbing matchsticks in the air for a game of pick up sticks.
