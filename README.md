@@ -14,6 +14,9 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D71
+The team were back to a full establishment today so we started with a quick planning session and then cracked on with feature tests. We've run into a gnarly problem where test for authenticated users seems to prevent capybara from visiting the home page.
+
 ### R2D70
 We had team absences today so I found myself working alone on the final stages of the signup and got myself snarled up in the intricacies of password_digest and has_secure_password. One of the coaches suggested we should have gone down the 'devize' route i.e. the plugin route of least resistance as that would have freed us up to be working on cool features like messaging and groups etc. Doh! I guess I'll be working with Devize this weekend.
 The afternoon was not terribly productive either as I wasted time unsuccessfully implementing feature tests. Boring.
