@@ -14,6 +14,12 @@ I've decided to set-up round 2 to coincide with the start of Makers Academy pre-
 
 ## Log
 
+### R2D72 Weekend Challenge to rival Instagram
+This is another rails challenge. I'm a few hours in and have just realised that rails ships with SQLite by default and all my experience is with PG. Not that inexperience is anything unusual.... but I am now wondering if I should start afresh, fathom out how to transfer across to PG or just suck it up and fathom out how to nail SQLite. It's something I need to add to my non-existent whiteboard of tips:
+- Think about your tech stack before you start the project
+
+Another thing I've learned is that it is really worth visiting the official site for any gem you plan to install and read the README. Who knew? They are actually pretty useful. My previous approach has been to riddle my gemfile with cool sounding gems, running bundle install and then wondering what they are and how they work. In an awful lot of cases they just do not work unless you perform some other arcane spell, only revealed in the README.
+
 ### R2D71
 The team were back to a full establishment today so we started with a quick planning session and then cracked on with feature tests. We've run into a gnarly problem where test for authenticated users seems to prevent capybara from visiting the home page.
 
