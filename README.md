@@ -1,18 +1,26 @@
-# I've joined the #100DaysOfCode Challenge.
 
-If you've decided to join:
-Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect 
+Whatapalaver's 100DaysOfCode Log - Round 2 - [Angela Wolff]
+=======
 
-### Whatapalaver's 100DaysofCode
+This is the log of my second #100DaysOfCode challenge. 
+I've decided to set-up round 2 to coincide with the start of Makers Academy pre-course 11th June 2018.  
 I started my first round of #100DaysofCode when I decided that I was going to be starting the Makers Academy bootcamp. I didn't exactly code everyday and I didn't maintain the log on all the days I coded. Nevertheless, it proved to be a good motivator for action and it is still interesting to see the progress and frustration levels over that time.
 You can see that log here: [Round 1 Log](./r1-log.md)
 
-# 100DaysOfCode Log - Round 2 - [Angela Wolff]
+Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
 
-This is the log of my second #100DaysOfCode challenge. 
-I've decided to set-up round 2 to coincide with the start of Makers Academy pre-course 11th June 2018. 
+***Exciting News***
+-------
+I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Codes](https://www.instagram.com/whatapalaver_codes/) for additional visual excitement of a coding nature!
 
 ## Log
+
+### R2D73
+Well who would have thought that Devise would make me sooo happy. What a joy of a gem that is. It does truly do everything and when it doesn't quite do everything (like add a username), its a doddle to amend. I can't believe I insisted we work without it on our facebook group project. I am going to kick myself everyday of next week as we struggle to test out authentication system.
+
+Loads of progress made with the twitter clone today. I have a newsfeed with actual uploaded pictures and they are all assoicated with a user - yes of course the username is displayed as well!
+
+Its a shame the styling is a total dogs dinner!
 
 ### R2D72 Weekend Challenge to rival Instagram
 This is another rails challenge. I'm a few hours in and have just realised that rails ships with SQLite by default and all my experience is with PG. Not that inexperience is anything unusual.... but I am now wondering if I should start afresh, fathom out how to transfer across to PG or just suck it up and fathom out how to nail SQLite. It's something I need to add to my non-existent whiteboard of tips:
