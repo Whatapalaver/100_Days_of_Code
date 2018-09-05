@@ -15,6 +15,18 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R2D75
+The AWS frustrations continued all day. Sam helped me suss out the heroku logs which slowly, slowly helped me reveal the problem which turned out to be a change to the hostname format following a redirection. There was momentous joy when an image finally appeared. 
+
+### R2D74 Monday week 9
+I spent much of last night and the early hours of this morning creating a branch on our facebook clone where I’ve stripped out all our DIY attempts at user authentication and replaced with Devise. Happily the team were keen to move forward with it this morning. 
+
+We’ve just heard that a JS React frontend is desired for the project but we are being a little slow to respond to that as we have so many features to implement such as images, likes and comments. 
+
+I got the images working using Carrierwave the gem that I used in my Instagram clone but it broke Heroku, which apparently doesn’t store images. 
+
+That cued an evening of deep AWS frustration. 
+
 ### R2D73
 Well who would have thought that Devise would make me sooo happy. What a joy of a gem that is. It does truly do everything and when it doesn't quite do everything (like add a username), its a doddle to amend. I can't believe I insisted we work without it on our facebook group project. I am going to kick myself everyday of next week as we struggle to test out authentication system.
 
