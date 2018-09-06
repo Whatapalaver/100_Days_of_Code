@@ -15,6 +15,10 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R2D76
+Having solved the AWS hosting problems yesterday I felt the need to document the solution in a blog. As I had carelessly forgotten to take screenshots of all the error logs I needed to recreate the problem again. I couldn't quite bring myself to break the teams production environment again so set forth to retrace my steps in the Instagram weekend challenge. This time though I managed to set up AWS and the Heroku hosting almost with ease. Who thought *not* being able to create error could be almost as frustrating as not being able to fix one.
+Here's the final blog post that details the [AWS debugging process](https://medium.com/team-rof/setting-up-a-rails-app-to-run-production-in-heroku-saving-images-uploaded-via-carrierwave-into-aws-c1cc28b0d6a6).
+
 ### R2D75
 The AWS frustrations continued all day. Sam helped me suss out the heroku logs which slowly, slowly helped me reveal the problem which turned out to be a change to the hostname format following a redirection. There was momentous joy when an image finally appeared. 
 
