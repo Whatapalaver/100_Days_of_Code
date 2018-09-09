@@ -15,6 +15,17 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R2D80
+I'm just starting Conway's Game of Life today. I'm already fascinated by this challenge, not just because its a cool automated life animation but also because of it's potential for endless refactoring and logic refining. This will be a challenge on a par with the ten pin bowling scorer and I am going to enjoy it. While it's the logic coding that most interests me, I will use this challenge as an opportunity to practise some front end technology and may show the animations in React.
+
+### R2D78
+We finished our group project work today. It sort of fizzled out and while it was great learning experience, I'm not terribly impressed with what we achieved. In terms of features we didn't go much beyond the Instagram clones we individually coded over a single weekend. Admittedly we were totally new to Rails at the start but I think we lost the impetus of the regular sprints and we didn't entwine frontend and backend from the start. This meant that backend coders ground to a halt with more than a day to go for fear of creating something that would break the design. The design team were pushing with 2 mins to spare!!
+
+In future we will plan the layout from day 1. We are hoping that with wireframes mocked up, designers, testers and coders will be singing of the same hymn sheet. Sprints will be scheduled in advance, with attendance strongly encouraged so that we can force some adrenaline into the process.
+
+### R2D77
+Absences and late starts across much of the team today so there was no opportunity for a rallying cry to action. I implented CRUD to the posts model and then filled out an application form for a cool health startup that have a load of interesting tech roles advertised at the moment.
+
 ### R2D76
 Having solved the AWS hosting problems yesterday I felt the need to document the solution in a blog. As I had carelessly forgotten to take screenshots of all the error logs I needed to recreate the problem again. I couldn't quite bring myself to break the teams production environment again so set forth to retrace my steps in the Instagram weekend challenge. This time though I managed to set up AWS and the Heroku hosting almost with ease. Who thought *not* being able to create error could be almost as frustrating as not being able to fix one.
 Here's the final blog post that details the [AWS debugging process](https://medium.com/team-rof/setting-up-a-rails-app-to-run-production-in-heroku-saving-images-uploaded-via-carrierwave-into-aws-c1cc28b0d6a6).
