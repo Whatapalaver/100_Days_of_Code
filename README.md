@@ -1,5 +1,5 @@
 
-Whatapalaver's 100DaysOfCode Log - Round 2 - [Angela Wolff]
+Whatapalaver's 100DaysOfCode Log - Round 2
 =======
 
 This is the log of my second #100DaysOfCode challenge. 
