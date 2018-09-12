@@ -15,6 +15,16 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R2D82
+I finished the bank test and sent it off for review and then started the next on the list which is the twitter frontend challenge. Makers have prepared the backend which supplies an api. my task is to crete the browser side interaction. 
+
+I find this pretty as it is all the things I have barely or never touched. I’ve started exploring React and within a few hours I managed to reveal the contents of the api which made me feel pretty thrilled. maybe I will like frontend afterall. 
+
+### R2D81 Monday Week 10
+It’s tech challenge week at Makers and unfortunately they have set ideas about what we should do. I’ve had to put the Game of Life on hold and start a dull expense tracking app. I’m doing it in Ruby and trying to remember everything about best practice in single responsibilty and dependancy injection etc. 
+
+My wife went into hospital today for a knee replacement op, so I am coding from a hospital room. 
+
 ### R2D80
 I'm just starting Conway's Game of Life today. I'm already fascinated by this challenge, not just because its a cool automated life animation but also because of it's potential for endless refactoring and logic refining. This will be a challenge on a par with the ten pin bowling scorer and I am going to enjoy it. While it's the logic coding that most interests me, I will use this challenge as an opportunity to practise some front end technology and may show the animations in React.
 
