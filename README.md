@@ -15,8 +15,11 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R2D83
+I didn't get glowing feedback from my first tech test so spent sometime today (between hospital visits), trying to improve the structure of my code. I had too much action going on in my Account class (such as formatting) that could have been extracted to the Print class and also had a series of unnecessary state tests which then forced me to expose a load of my attributes solely for the purpose of testing. Anyway, I have improved my code as a result so it was a useful experience. I like getting criticism actually, it's a very good way to convince yourself that you do have some idea what you are doing. 
+
 ### R2D82
-I finished the bank test and sent it off for review and then started the next on the list which is the twitter frontend challenge. Makers have prepared the backend which supplies an api. my task is to crete the browser side interaction. 
+I finished the bank test and sent it off for review and then started the next on the list which is the twitter frontend challenge. Makers have prepared the backend which supplies an api. my task is to create the browser side interaction. 
 
 I find this pretty as it is all the things I have barely or never touched. I’ve started exploring React and within a few hours I managed to reveal the contents of the api which made me feel pretty thrilled. maybe I will like frontend afterall. 
 
