@@ -15,6 +15,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R2D87
+React has been interesting but puzzling. My implementation of the Chitter Frontend challenge has moments of satisfaction but is ultimately a little embarassing. What sort of Chitter doesn't let you post tweets?! I have a remarkably complex structure for my non-tweeting rendition of twitter. I have 12 components and quite a lot of code for not a lot of functionality. I suspect I have not actually done React any favours.
+
 ### R2D85
 I made further progress with my first React project - Chitter Frontend. Having spend the best part of yesterday trying to move a header into the centre of my screen (aargh css!), I did get back to the serious stuff of communing with my api.
 I'm not at all sure how a react project ought to look but at the moment I have 11 components just to display a list of tweets and a list of users. Some have name like TimeLineDiv and UserRefresh both of which sound to me as though they are extraneous and are only there because I am either inept at layout (aargh css!) or writing JS to handle my refreshes. I'll attempt a tidy up tomorrow before trying to deal with POST requests for signup and posting of my own erudite tweets.
