@@ -15,6 +15,14 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R2D89
+Having watched about 20hrs of Udemy videos in the last 24hrs I feel that I am somewhat qualified to dabble with the notion of an api. I at least now understand the concept of a restful api, or at least some of the concepts. We have models and routes created but now I am trying to shoehorn my knowledge of relational databases into the concept of noSQL and MongoDB. It's weird and triky and wholly new again.... On a positive note, our crack team of front-enders have developed a rather fab looking splash screen. I feel as though I will not be shamed on grad day.
+
+### R2D88
+The first day of the final project and I have been rewarded by a great team - all capable and all have a great work ethic.
+We have settled on the idea of a Makers ping pong live scorer and tournament manager. We are visualising Slack integration, statistical animations, as well as a kick live scorer. I'm in the back-end team and have somehow been tasked with creating a RESTful api in Node.js
+It's going to be fun.
+
 ### R2D87
 React has been interesting but puzzling. My implementation of the Chitter Frontend challenge has moments of satisfaction but is ultimately a little embarassing. What sort of Chitter doesn't let you post tweets?! I have a remarkably complex structure for my non-tweeting rendition of twitter. I have 12 components and quite a lot of code for not a lot of functionality. I suspect I have not actually done React any favours.
 
