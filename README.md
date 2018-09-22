@@ -14,11 +14,24 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Codes](https://www.instagram.com/whatapalaver_codes/) for additional visual excitement of a coding nature!
 
 ## Log
+### R2D93 - Weekend of Final Project
+Today's notable coding moment was my first question posted to Stack Overflow. I have braved the potential wrath of SO users and posted the pithily titled question of: "Setting up Package.json for Heroku deployment of Backend and Frontend Node/React Project". I have already been rewarded with the link to a repo that I suspect will answer my question of how to replicate the production environment locally.
+
+### R2D92
+I carried on with last nights frustrations for literally hours. Hours and hours! 
+Finally attaining some level of success by mid-afternoon when I finally got the React app rendering on Heroku while similataneously allowing access to our API. In the time it took me to do that tiny task my backend team partner had cracked the Slack API and imported all our potential players into the users DB...
+
+### R2D91
+We were gradually becoming a little jaded by our newly hosted app and its exciting rendering of json files and started to ponder how we could have our beautifully rendered splash screen (soon to become an all singing all dancing React app) as well as our API hosted on the same domain. That quickly became yet another heroku hosting nightmare to rival my previous AWS nightmare. It seems two servers are required to be running at the same time and the app needs to flip between the two according to the call. Hours lost to research and head-banging.
+
+### R2D90
+Having cracked noSQL yesterday, today we successfully hosted our first API. :honeybee  
+A little fanfare was sounded.
 
 ### R2D89
 Having watched about 20hrs of Udemy videos in the last 24hrs I feel that I am somewhat qualified to dabble with the notion of an api. I at least now understand the concept of a restful api, or at least some of the concepts. We have models and routes created but now I am trying to shoehorn my knowledge of relational databases into the concept of noSQL and MongoDB. It's weird and triky and wholly new again.... On a positive note, our crack team of front-enders have developed a rather fab looking splash screen. I feel as though I will not be shamed on grad day.
 
-### R2D88
+### R2D88 - Monday Makers Wk 11
 The first day of the final project and I have been rewarded by a great team - all capable and all have a great work ethic.
 We have settled on the idea of a Makers ping pong live scorer and tournament manager. We are visualising Slack integration, statistical animations, as well as a kick live scorer. I'm in the back-end team and have somehow been tasked with creating a RESTful api in Node.js
 It's going to be fun.
