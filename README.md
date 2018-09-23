@@ -14,6 +14,14 @@ Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode 
 I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Codes](https://www.instagram.com/whatapalaver_codes/) for additional visual excitement of a coding nature!
 
 ## Log
+
+### R2D94
+Gosh. I have just noticed that I am going to reach the end of Makers on Friday - Day 99 of my 100 days challenge. That’s both amazing and deely unsatisfactory at the same time!
+
+Anyway, today was spent trying to fathom out how to correct a function that a team mate wrote to update a DB with new users entering our Slack channel. It required my second ever question to Stack Overflow. I think that officially makes me a developer now. 
+
+I set up a new DB on MongoAtlas and got my head around process.env 
+
 ### R2D93 - Weekend of Final Project
 Today's notable coding moment was my first question posted to Stack Overflow. I have braved the potential wrath of SO users and posted the pithily titled question of: "Setting up Package.json for Heroku deployment of Backend and Frontend Node/React Project". I have already been rewarded with the link to a repo that I suspect will answer my question of how to replicate the production environment locally.
 
