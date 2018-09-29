@@ -15,6 +15,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R2D99
+Day 99 already. I'm not sure whether to enjoy the asynchronicity or revel in it. I finally graduate from Makers today and it's time for new beginnings and I think a new start to 100_Days_of_Code.
+
 ### R2D97
 All the frontend functionality was available today so I spent the morning dealing with merge conflicts and hosting so we could get the work live. I had a few stressy moments with Git and have learned a few more things about gitflow which will definitely come in handy later. The afternoon was spent retrofitting some tests. super frustrating task. 
 
@@ -22,7 +25,7 @@ All the frontend functionality was available today so I spent the morning dealin
 In our backend team we focussed our attention on accessing the Slack api in order to send messages to our channel with the results of each completed match. I added a bit of randomisation into the messaging in the evening so that we could have some fun with smack talk. 
 
 ### R2D95
-Today marked the first day of crisis in our project team. Most people had been working over the but one member of the frontend team had been working ferociously to deliver features and in doing so had decided that implementing Redux was the way to go. It was very hard to argue with as we had the evidence before us that it worked. There was some resistance and an attempt to recreate the work with ‘plain’ React but to no avail. As Makers we are well used to working with new and unfamiliar technology though so we buckled down and set too with the rest of the project. It did end up being a fairly unproductive day though.  
+Today marked the first day of crisis in our project team. Most people had been working over the weekend but one member of the frontend team had been working ferociously to deliver features and in doing so had decided that implementing Redux was the way to go. It was very hard to argue with as we had the evidence before us that it worked. There was some resistance and an attempt to recreate the work with ‘plain’ React but to no avail. As Makers we are well used to working with new and unfamiliar technology though so we buckled down and set too with the rest of the project. It did end up being a fairly unproductive day though.  
 
 ### R2D94
 Gosh. I have just noticed that I am going to reach the end of Makers on Friday - Day 99 of my 100 days challenge. That’s both amazing and deely unsatisfactory at the same time!
