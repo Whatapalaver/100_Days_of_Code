@@ -3,7 +3,7 @@ Whatapalaver's 100DaysOfCode Log - Round 3
 =======
 
 This is the log of my third #100DaysOfCode challenge. 
-I cut [round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) short on Makers Graduation, Day 99 (sacrilege?) and restarted round 3 on Saturday after Makers graduation.
+I cut [round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) short on Makers Graduation - day 99 (sacrilege?) and restarted round 3 on Saturday after Makers graduation.
 
 Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
 
