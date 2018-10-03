@@ -13,10 +13,15 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
-### R3D3
+### R3D5
+Had my first developer interview which turned out to be an analyst role without any development. Shame, as it was a great product and I need to believe in my product. 
+
+Progressing well with Java and I have an interesting natural disaster project brewing with the Makers cohort. 
+
+### R3D4
 Scouring NASA APIs today for potential project ideas. Also started the 99 Bottles of Beer refactoring project with Sandi Metz. 
 
-### R3D2
+### R3D3
 I’m still waiting for feedback from my early Java exercism challenges so I have now added the Kotlin track into the mix. 
 
 ### R3D1
