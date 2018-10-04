@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D6
+Spent the day working on a google scripts project. I needed to loop through a product list and create a pdf file showing details for each one. I’ve done something similar in excel before but translating to the javascript google apps language was something new. I’m pretty impressed by the potential within google sheets, I may be about to turn my back on excel. 
+
 ### R3D5
 Had my first developer interview which turned out to be an analyst role without any development. Shame, as it was a great product and I need to believe in my product. 
 
