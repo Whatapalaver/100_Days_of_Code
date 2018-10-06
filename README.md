@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D8
+I'm back to Conway's Game of Life and loving it. It is tying in nicely with my concurrent studying of Sandi Metz's 99 Bottles of Beer as I have somehow managed to create code with ABC size errors. That's Assignment, Branch, Condition size and means I am forcing my method to do too much. I probably need to read a bit more or risk another question on Stack Overflow.
+
 ### R3D6
 Spent the day working on a google scripts project. I needed to loop through a product list and create a pdf file showing details for each one. I’ve done something similar in excel before but translating to the javascript google apps language was something new. I’m pretty impressed by the potential within google sheets, I may be about to turn my back on excel. 
 
