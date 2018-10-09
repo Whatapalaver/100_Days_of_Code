@@ -13,6 +13,10 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D10
+I've been going loopy with Google Scripts and have now had to fathom a way to export a single sheet to PDF without the need to hide the other sheets. That has led me to the Google Sheets API and a rather neat way to convert a Blob to a PDF. I've set up a new Gist for all things [Google Sheet to PDF Export...](https://gist.github.com/Whatapalaver/4db56950daf84cf1dd2c4765a540e17f) 
+Also having fun with Ruby.pow(2) - I feel like a superhero.
+
 ### R3D8
 I'm back to Conway's Game of Life and loving it. It is tying in nicely with my concurrent studying of Sandi Metz's 99 Bottles of Beer as I have somehow managed to create code with ABC size errors. That's Assignment, Branch, Condition size and means I am forcing my method to do too much. I probably need to read a bit more or risk another question on Stack Overflow.
 
