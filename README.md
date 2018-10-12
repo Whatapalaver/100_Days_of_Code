@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D12
+I feel a little blown by the wind at the moment. Everytime I see a new company that I am interested in, I shift my focus to their current stack. It's a bit like the early days of dabbling with coding when I spent most of my time wondering which language I should start with. At least today I have made some good progress with Ruby on Rails and spent more time focussing on the frontend than I typically have done so far on the journey. I have a neat little app set up that I styled using Google's Materialize (anything to avoid Bootstrap!) and also tried out haml instead of erb for templating.
+
 ### R3D10
 I've been going loopy with Google Scripts and have now had to fathom a way to export a single sheet to PDF without the need to hide the other sheets. That has led me to the Google Sheets API and a rather neat way to convert a Blob to a PDF. I've set up a new Gist for all things [Google Sheet to PDF Export...](https://gist.github.com/Whatapalaver/4db56950daf84cf1dd2c4765a540e17f) 
 Also having fun with Ruby.pow(2) - I feel like a superhero.
