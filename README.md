@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D13
+More Rails today and then I had fun unpicking the experiment with haml. I don’t like it. It may be neater but erb follows the rules of html which I already understand, with haml it feels like I have to learn too much syntax. I’ve been writing in erb and converting to haml which isn’t great workflow. 
+
 ### R3D12
 I feel a little blown by the wind at the moment. Everytime I see a new company that I am interested in, I shift my focus to their current stack. It's a bit like the early days of dabbling with coding when I spent most of my time wondering which language I should start with. At least today I have made some good progress with Ruby on Rails and spent more time focussing on the frontend than I typically have done so far on the journey. I have a neat little app set up that I styled using Google's Materialize (anything to avoid Bootstrap!) and also tried out haml instead of erb for templating.
 
