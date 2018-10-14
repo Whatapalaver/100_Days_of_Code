@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D15
+Finished my first post-Makers Rails application [Univ App](https://github.com/Whatapalaver/univ_app). I found it really handy to walk through a professional approach to Rails app execution. I learned a few debug tricks using byebug but also felt far more familiar with the DIY user authentication using bcrypt. It's also the first project where I feel pretty happy with the design of the frontend.
+
 ### R3D13
 More Rails today and then I had fun unpicking the experiment with haml. I don’t like it. It may be neater but erb follows the rules of html which I already understand, with haml it feels like I have to learn too much syntax. I’ve been writing in erb and converting to haml which isn’t great workflow. 
 
