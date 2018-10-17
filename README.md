@@ -13,8 +13,11 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D17
+This dragonstack course is pretty challenging and I haven't even got to React yet, I need to crack on or else it will be more of a hindrance to my tech test progress. I've been spending a little time on the tech test today, mostly setting up the structure of the backend and pondering how my api should look in order to allow the React app to select specific fields. Do I need multiple api's for each potential field (I suspect that's a no) or somehow pass the field name as a param to the get query. This sounds more likely but also yet another thing that I don't know how to do. In order to feel like I'm making some progress I have set up the program to deliver an api that is currently fixed to show the stats for the education field. At least with this progress I can move onto the frontend communication and styling.
+
 ### R3D16
-I was issued with my first real tech test today which requires me to generate an API from a DB hosted on AWS and generate a single page website in React/Redux to show a summary according to the selected variable selected. I'm juggling this challenge with a Udemy course called Dragonstack as I think it will prove useful in the React implementation. I'm taking the time to really understand each section of the implementation rather than the tim pressured pragmatism of, settling for something that works.
+I was issued with my first real tech test today which requires me to generate an API from a DB hosted on AWS and generate a single page website in React/Redux to show a summary according to the selected variable selected. I'm juggling this challenge with a Udemy course called Dragonstack as I think it will prove useful in the React implementation. I'm taking the time to really understand each section of the implementation rather than the time pressured pragmatism of, settling for something that works.
 
 ### R3D15
 Finished my first post-Makers Rails application [Univ App](https://github.com/Whatapalaver/univ_app). I found it really handy to walk through a professional approach to Rails app execution. I learned a few debug tricks using byebug but also felt far more familiar with the DIY user authentication using bcrypt. It's also the first project where I feel pretty happy with the design of the frontend.
