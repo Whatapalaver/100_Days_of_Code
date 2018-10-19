@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D21 Saturday 18_Oct
+Made loads of progress today. Sussed out how to pass props down to my table component by including it in the parents render function rather than in app.js. Sorted out how to map through my api call to display in the table rows. I've nearly finished the tech test although I still haven't fathomed out what I need redux for and I haven't written any tests. My api calls are painfully slow as well so I must have missed a better approach as its currently intolerable from a user perspective.
+
 ### R3D17
 This dragonstack course is pretty challenging and I haven't even got to React yet, I need to crack on or else it will be more of a hindrance to my tech test progress. I've been spending a little time on the tech test today, mostly setting up the structure of the backend and pondering how my api should look in order to allow the React app to select specific fields. Do I need multiple api's for each potential field (I suspect that's a no) or somehow pass the field name as a param to the get query. This sounds more likely but also yet another thing that I don't know how to do. In order to feel like I'm making some progress I have set up the program to deliver an api that is currently fixed to show the stats for the education field. At least with this progress I can move onto the frontend communication and styling.
 
