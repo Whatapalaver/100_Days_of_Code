@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D22
+I spent the day trying to catch up with the coursework from the Machine Learning course I started at the beginning of the week. I'm boiling my head with high speed visualisations of minimising the square of diffeneces. Everything is learned at 1.5x playback speed since Makers.
+
 ### R3D21 Saturday 18_Oct
 Made loads of progress today. Sussed out how to pass props down to my table component by including it in the parents render function rather than in app.js. Sorted out how to map through my api call to display in the table rows. I've nearly finished the tech test although I still haven't fathomed out what I need redux for and I haven't written any tests. My api calls are painfully slow as well so I must have missed a better approach as its currently intolerable from a user perspective.
 
