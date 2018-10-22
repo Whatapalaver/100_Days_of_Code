@@ -13,6 +13,11 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D23
+Well I had a lot of fun today with heroku again. Having decided not to use create-react-app for my react frontend build I was then left feeling a bit unsupported when I couldn't get Heroku to host any of my frontend. Hours of researching parcel documentation (replacement for webpacker) and eventually I fathomed out that the build was stored in dist and not build.... Any, I do now have both the frontend and backend API on Heroku. It's spread across odd branches as Github has been misbehaving for hours today. I just need to fathom out tests, do something semi-fancy with my loading tables and then I should be good to go with this tech test.
+
+Tonight I have a meetup where we will build a neural network from scratch.
+
 ### R3D22
 I spent the day trying to catch up with the coursework from the Machine Learning course I started at the beginning of the week. I'm boiling my head with high speed visualisations of minimising the square of diffeneces. Everything is learned at 1.5x playback speed since Makers.
 
