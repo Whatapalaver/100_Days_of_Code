@@ -13,7 +13,25 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
-### R3D23
+### R3D29 Monday 29_Oct
+Mega interview day with pair-programming.
+
+### R328
+More codewars
+
+### R3D27
+More codewars but I've also started a course on Machine Learning with Stephen Grider. I finally understand why I had to learn about vector and matrix multiplication back at school, many, many years ago.
+
+### R3D26
+Tech interview day was successful so now I need to prepare for pair programming sessions. I've opted to do this by completing codewars kata as they prepare me well for actually writing javascript code.
+
+### R3D25
+Following the submission of my tech test I now have a technical interview scheduled for tomorrow. Today was consumed with refreshing javascript basics like hoisting. Basically I just googled javascript technical interview questions and absorbed.
+
+### R3D24
+Testing React is made extra tricky when you didn't use the create-react-app technique. I've wasted the morning trying to fathom out how to get Jest to work. The afternoon was consumed with some rather perfunctory tests. I gave up with the components that involved a fetch. That's another challenge to add to my to do list.
+
+### R3D23 Monday 22_Oct
 Well I had a lot of fun today with heroku again. Having decided not to use create-react-app for my react frontend build I was then left feeling a bit unsupported when I couldn't get Heroku to host any of my frontend. Hours of researching parcel documentation (replacement for webpacker) and eventually I fathomed out that the build was stored in dist and not build.... Any, I do now have both the frontend and backend API on Heroku. It's spread across odd branches as Github has been misbehaving for hours today. I just need to fathom out tests, do something semi-fancy with my loading tables and then I should be good to go with this tech test.
 
 Tonight I have a meetup where we will build a neural network from scratch.
