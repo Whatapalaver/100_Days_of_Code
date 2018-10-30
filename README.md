@@ -13,6 +13,11 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D30
+Well rather unforgivably I let myself down at yesterday's pair programming session. While I accept that I was never going to be much use with the totally alien Redux challenge, I ought to have been very much more capable with the API testing. So, I am back to square one and am refocussing my efforts on all things Node.js and React. Although I still cannot help but broaden my horizons a little so am tempted to dabble with GraphQL and mix things up with React Native. Machine Learning experiments will also continue on the side....
+
+I've ploughed on today with a very good Nodejs Udemy course by Mosh Hamedani and kicked off my side project called "Calling All Superheroes".
+
 ### R3D29 Monday 29_Oct
 Mega interview day with pair-programming.
 
