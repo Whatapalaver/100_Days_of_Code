@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D32
+Refreshing my knowledge of mongoDB and setting up async functions with fairly complex find queries. I knew yesterday's lesson on promises would come in handy.
+
 ### R3D31
 Back to real JS basics today with `return new Promise((resolve, reject) {});`
 
