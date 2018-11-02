@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D33
+I spent the morning living the dream.....coding from the coffee shop. It perhaps wasn't the most dreamlike coffee shop (it was in Norbury afterall), but it was still conducive to a good few hours toiling with APIs. They get pretty repetitive after a while.
+
 ### R3D32
 Refreshing my knowledge of mongoDB and setting up async functions with fairly complex find queries. I knew yesterday's lesson on promises would come in handy.
 
