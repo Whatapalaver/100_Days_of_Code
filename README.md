@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D37
+I'm still prepping for my "2 hour" tech test due tomorrow. So far I've struggled my way through rspec mocking of nokogiri web scrapes and now I'm trying to fathom out how to loop (and scrape) through multiple web pages when the results are paginated.
+
 ### R3D36
 I have a tech test to do tomorrow which involves a webscraping challenge to be completed in 2 hours! Personally I think a 2 hour time limit for a brand new task is a bit unrealistic but as they've released the details of the challenge early I expect they intend us to complete some research before we start. Today I have been setting myself up some boilerplate templates as I don't want to waste any time setting up a bog standard ruby project with rspec loaded and ready to go. This afternoon I hope to attempt a webscrape using both nokogiri with ruby and cheerio for nodejs, so I can decide which language I would prefer to run with.
 
