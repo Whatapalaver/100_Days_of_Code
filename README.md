@@ -13,6 +13,12 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D40
+Loads of work on the tech test - a simple card dealing game. 
+
+### R3D39 Monday 12 Nov
+Kicked off another tech test today.
+
 ### R3D38
 Tech test successfully submitted with pagination success. Now its back to the Angular tutorial. It's getting pretty hairy now and I'm wondering how long it would take me to be able to do a non-tutorial guided project. Answer would no doubt be a very long time. I'm also having many styling issues. Have I mentioned how much I hate css?
 
