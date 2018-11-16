@@ -13,6 +13,15 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D43
+I managed to resolve both my rackup and Heroku issues this morning so my app is hosted. I'm going to update my simple Ruby app boilerplate project so that I don't run into this issue again...
+
+### R3D42
+Back to my card shuffling app. I spent the morning working in the coffee shop trying to debug rackup issues. I had multiple ways of launching my server but they weren't all functioning in the same way. I was left wondering if part of my problem was because I was using my iPhone hotspot rather than home wifi. I trekked back home to find that the problem was real! Loads more time spent debugging and trying to host on Heroku. Also some joy was to be found in additional features and the ability to get the game working via an html GUI.
+
+### R3D41
+Spent the morning interviewing with Songkick. Really enjoyed bot their tech test challenge which was the web scraper and then this mornings pairing session which involved implementing new features and refactoring code as new integration tests were added.
+
 ### R3D40
 Loads of work on the tech test - a simple card dealing game. 
 
