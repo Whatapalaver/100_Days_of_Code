@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D44
+It was the global day of coderetreat today and I spent it at Makers with Ladies of Code working through iterations of Conway’s Game of Life with assorted pair partners. working in both javascript and ruby. 
+
 ### R3D43
 I managed to resolve both my rackup and Heroku issues this morning so my app is hosted. I'm going to update my simple Ruby app boilerplate project so that I don't run into this issue again...
 
