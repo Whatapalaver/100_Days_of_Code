@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D45 Monday 19 Nov
+I started a subscription with Frontend Masters today as I'm aware that my frontend and particularly my styling skills are potentially letting me down. I spent the day using flexbox and getting my head around media queries. Jen Kramer @jen4web is a pretty good tutor. 
+
 ### R3D44
 It was the global day of coderetreat today and I spent it at Makers with Ladies of Code working through iterations of Conway’s Game of Life with assorted pair partners. working in both javascript and ruby. 
 
