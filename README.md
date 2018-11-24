@@ -13,8 +13,20 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D50 Sat 24 Nov
+I'm moving on the the Intermediate React workshop today with Brian Holt. It was a toss uyp between this and Javascript fundamentals but the React course deals with production ready code which I've already identified as a stumbling block.
+
+### R3D49
+I finished the Intro to React course and now have a pretty nifty app that links to an american pet adoption api. I am currently struggling to get this hosted which is perhaps a result of it not being created with create-react-app. Every tutorial I can find for hosting instructions seems to be based around CRA. I need to get the build and hosting process clear in my head as this is always a stumbling block for me. We learned how to use React Context which has similar functionality to Redux and it wasn't all that terrifying.
+
+### R3D48
+I started the Complete Intro to React V4 workshop today with Brian Holt on FEM. I've learned so many tips from the first few sessions on things like linting and generally setting up the whole app. We aren't using create-react-app at this stage as it hides much of the nitty gritty wiring.
+
+### R3D47
+Finished the flexbox and grid workshop on FEM today and played around creating some Mondrian art in css.
+
 ### R3D45 Monday 19 Nov
-I started a subscription with Frontend Masters today as I'm aware that my frontend and particularly my styling skills are potentially letting me down. I spent the day using flexbox and getting my head around media queries. Jen Kramer @jen4web is a pretty good tutor. 
+I started a subscription with Frontend Masters (FEM) today as I'm aware that my frontend and particularly my styling skills are potentially letting me down. I spent the day using flexbox and getting my head around media queries. Jen Kramer @jen4web is a pretty good tutor. 
 
 ### R3D44
 It was the global day of coderetreat today and I spent it at Makers with Ladies of Code working through iterations of Conway’s Game of Life with assorted pair partners. working in both javascript and ruby. 
