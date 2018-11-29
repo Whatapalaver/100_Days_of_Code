@@ -13,8 +13,17 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D53 Thurs 27 Nov
+Today I worked through Day 1 of the Design for Designers course by Sarah Drassner of Frontend Masters. It's very good and I'm rather pleased with my experimentation with css grid, inspired by Swiss design. I've got it in mind for my Super Hero side project despite not really knowing what that will do...
+
+### R3D52
+Back to react. I am now running through Dave Ceddia's Pure React book. It's pretty good so far and encourages quite a bit of experimentation as you run through the exercises to build more components.
+
+### R3D51 Mon 26 Nov
+Interview day today so I reviewed my tech test and annoyingly found some errors where dependencies weren't specified in my gemfile. Too flippin late now. The tech interview also revealed another error in the placement of my call to simplecov that ensured I always got 100% coverage. Might have been a great wheeze if it hasn't been discovered.
+
 ### R3D50 Sat 24 Nov
-I'm moving on the the Intermediate React workshop today with Brian Holt. It was a toss uyp between this and Javascript fundamentals but the React course deals with production ready code which I've already identified as a stumbling block.
+I'm moving on the the Intermediate React workshop today with Brian Holt. It was a toss up between this and Javascript fundamentals but the React course deals with production ready code which I've already identified as a stumbling block.
 
 ### R3D49
 I finished the Intro to React course and now have a pretty nifty app that links to an american pet adoption api. I am currently struggling to get this hosted which is perhaps a result of it not being created with create-react-app. Every tutorial I can find for hosting instructions seems to be based around CRA. I need to get the build and hosting process clear in my head as this is always a stumbling block for me. We learned how to use React Context which has similar functionality to Redux and it wasn't all that terrifying.
