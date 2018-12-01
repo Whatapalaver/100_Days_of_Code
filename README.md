@@ -13,6 +13,14 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D55 Dec 1st
+I started the Advent of Code challenge with the Zero to Mastery group. It was simple yet remarkably challenging so I will do well to dillegently work my way through the next 25 days. I need as much exposure to varied javascript problems as I can. 
+
+Finished off applying my css grid composition onto my Superhero React project. 
+
+### R3D54
+I set up my Superhero React app and ensured I could both link it to an Express backend and host on Heroku before I progressed too far. I inevitably had hosting issues and some very strange behaviour with my Heroku app which seemed to be down to caching issues. When I fathomed out how to purge the cache, the design bounced back to the expected. 
+
 ### R3D53 Thurs 27 Nov
 Today I worked through Day 1 of the Design for Designers course by Sarah Drassner of Frontend Masters. It's very good and I'm rather pleased with my experimentation with css grid, inspired by Swiss design. I've got it in mind for my Super Hero side project despite not really knowing what that will do...
 
