@@ -13,6 +13,12 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D58
+Hard to believe but today is the first time I've attempted a CLI. I've always used IRB and thought that was the equivalent but I received some tech test feedback criticising my reliance on IRB and its made me reconsider what CLI means. I wish it hadn't as I'm now facing a whole new challenge of how to test a program that is currentky running. My Rspec is just hanging....
+
+### R3D56
+Advent of Code is supposed to be a fun little treat but it is consuming my entire day! Regex seems to rule the waves. I hate Regex!
+
 ### R3D55 Dec 1st
 I started the Advent of Code challenge with the Zero to Mastery group. It was simple yet remarkably challenging so I will do well to dillegently work my way through the next 25 days. I need as much exposure to varied javascript problems as I can. 
 
