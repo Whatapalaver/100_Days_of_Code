@@ -13,7 +13,15 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
-### R3D58
+### R3D60
+I converted yesterdays anagram solution into a React frontend. It was remarkably quick and easy to fashion - I have to admit that React is becoming a joy! I cheated a bit by stealing much of the css grid layout that I had prepared for my SuperHero side project but then React is all about reusable components!
+
+This afternoon is for C# focus. I am cramming Udemy videos so that I have a chance of being able to convert my snakes and ladders program. So far I am pretty hopeful. I like C# its like Java and is also making me reminisce about VBA.
+
+### R3D59
+I re-read the tech test instructions and realised that my plan to create my anagram solver in Ruby was not going to impress much as they specified a desire to be wowed by my Javascript prowess. That is a shame and caused quite a problematic afternoon as I'm just not used to doing my OOP apps in anything other than Ruby. Still, it was nailed before mignight which is a win. The Advent of Code solutions I'd done over the last couple of days proved to be really useful as they'd forced me to deal with text files. I hope to catch up with the lost days once my tech tests are complete.
+
+### R3D58 Tue Dec 4th
 Hard to believe but today is the first time I've attempted a CLI. I've always used IRB and thought that was the equivalent but I received some tech test feedback criticising my reliance on IRB and its made me reconsider what CLI means. I wish it hadn't as I'm now facing a whole new challenge of how to test a program that is currentky running. My Rspec is just hanging....
 
 ### R3D56
