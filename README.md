@@ -13,6 +13,21 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D65
+Tech interview day today. The pairing challenge was to create a browser based countdown timer in javascript. I was a bit panicked initially as I somehow see to have skipped over basic DOM manipulation in vanilla javascript and have jumped straight to react whenever I have client side work. Anyway, it went well enough. I was allowed to use google and we worked our way through setInterval() and clearInterval() and had a functioning ticker in no time.
+
+### R3D64
+Two interviews today and a new tech test to puzzle over. This one appears to be a simple Ruby and Sinatra routing challenge but I've spent quite some time puzzling out how it might work.
+
+### R3D63 Mon 10th Dec
+With the tech tests out of the way I am back to the Advent of Code but I am still stuck on Day 4. These little challenges are proving to be fairly tricky. They involve a load of file import and data cleansing work that I am unfamiliar with but that at least makes them fairly realistic tests. This challenge involves working out which guards sleep the most and I'm feeling the sting of layered complexity as I didn't use a TDD approach and just opted to code freehand. It's a bit disheartening that these challenges take me so long to complete!
+
+### R3D62 Sat 8th Dec
+I am now away on a code free weekend break but I had a slight brainwave while watching Udemy videos in the bath. I've quickly opened the laptop and put the finishing touches to my C# tech test and it is good to submit now.
+
+### R3D61
+Today I am panic coding in C# - desperately trying to fathom out constructor functions so I can get these snakes and ladders in action before lunchtime. I'm hoping to escape for the weekend to visit family and this tech test needs to be submitted by Sunday.
+
 ### R3D60
 I converted yesterdays anagram solution into a React frontend. It was remarkably quick and easy to fashion - I have to admit that React is becoming a joy! I cheated a bit by stealing much of the css grid layout that I had prepared for my SuperHero side project but then React is all about reusable components!
 
@@ -22,7 +37,7 @@ This afternoon is for C# focus. I am cramming Udemy videos so that I have a chan
 I re-read the tech test instructions and realised that my plan to create my anagram solver in Ruby was not going to impress much as they specified a desire to be wowed by my Javascript prowess. That is a shame and caused quite a problematic afternoon as I'm just not used to doing my OOP apps in anything other than Ruby. Still, it was nailed before mignight which is a win. The Advent of Code solutions I'd done over the last couple of days proved to be really useful as they'd forced me to deal with text files. I hope to catch up with the lost days once my tech tests are complete.
 
 ### R3D58 Tue Dec 4th
-Hard to believe but today is the first time I've attempted a CLI. I've always used IRB and thought that was the equivalent but I received some tech test feedback criticising my reliance on IRB and its made me reconsider what CLI means. I wish it hadn't as I'm now facing a whole new challenge of how to test a program that is currentky running. My Rspec is just hanging....
+Hard to believe but today is the first time I've attempted a CLI. I've always used IRB and thought that was the equivalent but I received some tech test feedback criticising my reliance on IRB and its made me reconsider what CLI means. I wish it hadn't as I'm now facing a whole new challenge of how to test a program that is currently running. My Rspec is just hanging....
 
 ### R3D56
 Advent of Code is supposed to be a fun little treat but it is consuming my entire day! Regex seems to rule the waves. I hate Regex!
@@ -42,7 +57,7 @@ Today I worked through Day 1 of the Design for Designers course by Sarah Drassne
 Back to react. I am now running through Dave Ceddia's Pure React book. It's pretty good so far and encourages quite a bit of experimentation as you run through the exercises to build more components.
 
 ### R3D51 Mon 26 Nov
-Interview day today so I reviewed my tech test and annoyingly found some errors where dependencies weren't specified in my gemfile. Too flippin late now. The tech interview also revealed another error in the placement of my call to simplecov that ensured I always got 100% coverage. Might have been a great wheeze if it hasn't been discovered.
+Interview day today so I reviewed my tech test and annoyingly found some errors where dependencies weren't specified in my gemfile. Too flippin late now. The tech interview also revealed another error in the placement of my call to simplecov that ensured I always got 100% coverage. Might have been a great wheeze if it hadn't been discovered.
 
 ### R3D50 Sat 24 Nov
 I'm moving on the the Intermediate React workshop today with Brian Holt. It was a toss up between this and Javascript fundamentals but the React course deals with production ready code which I've already identified as a stumbling block.
@@ -69,7 +84,7 @@ I managed to resolve both my rackup and Heroku issues this morning so my app is 
 Back to my card shuffling app. I spent the morning working in the coffee shop trying to debug rackup issues. I had multiple ways of launching my server but they weren't all functioning in the same way. I was left wondering if part of my problem was because I was using my iPhone hotspot rather than home wifi. I trekked back home to find that the problem was real! Loads more time spent debugging and trying to host on Heroku. Also some joy was to be found in additional features and the ability to get the game working via an html GUI.
 
 ### R3D41
-Spent the morning interviewing with Songkick. Really enjoyed bot their tech test challenge which was the web scraper and then this mornings pairing session which involved implementing new features and refactoring code as new integration tests were added.
+Spent the morning interviewing with Songkick. Really enjoyed both their tech test challenge which was the web scraper and then this mornings pairing session which involved implementing new features and refactoring code as new integration tests were added.
 
 ### R3D40
 Loads of work on the tech test - a simple card dealing game. 
@@ -127,7 +142,7 @@ Following the submission of my tech test I now have a technical interview schedu
 Testing React is made extra tricky when you didn't use the create-react-app technique. I've wasted the morning trying to fathom out how to get Jest to work. The afternoon was consumed with some rather perfunctory tests. I gave up with the components that involved a fetch. That's another challenge to add to my to do list.
 
 ### R3D23 Monday 22_Oct
-Well I had a lot of fun today with heroku again. Having decided not to use create-react-app for my react frontend build I was then left feeling a bit unsupported when I couldn't get Heroku to host any of my frontend. Hours of researching parcel documentation (replacement for webpacker) and eventually I fathomed out that the build was stored in dist and not build.... Any, I do now have both the frontend and backend API on Heroku. It's spread across odd branches as Github has been misbehaving for hours today. I just need to fathom out tests, do something semi-fancy with my loading tables and then I should be good to go with this tech test.
+Well I had a lot of fun today with heroku again. Having decided not to use create-react-app for my react frontend build I was then left feeling a bit unsupported when I couldn't get Heroku to host any of my frontend. Hours of researching parcel documentation (replacement for webpacker) and eventually I fathomed out that the build was stored in dist and not build.... Anyway, I do now have both the frontend and backend API on Heroku. It's spread across odd branches as Github has been misbehaving for hours today. I just need to fathom out tests, do something semi-fancy with my loading tables and then I should be good to go with this tech test.
 
 Tonight I have a meetup where we will build a neural network from scratch.
 
