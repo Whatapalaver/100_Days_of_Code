@@ -13,6 +13,16 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D68
+I am back on Frontend Masters today and kicking off with the Four Semesters of Computer Science in 5 hours workshop. That's taking me back to Big O notation and brings me closer to actually finishing my sock sorting blog. Watch this space...
+Frontend Masters are pretty top notch - the thing that sets them apart is their focus on sreen real estate. They consistently zoom and resize so the code occupies the full screen. This stuff matters when you need specs or like to view on your iPhone.
+
+### R3D67
+Today's tech test was a seemingly simple Ruby / Sinatra routing challenge. It involved multipath and dynamic routing and did manage to tie me in knots a bit. I found myself staring off into to space while I virtually coded my way into numerous deadends. In the end it proved quite successful to just sit down and bash out code until I found a route out of the mayhem. It proved to be a pretty interesting challenge and I'm grateful for the diversity of tech challenges I'm facing while trying to secure my first developer role.
+
+### R3D66
+Back to back rejections today. I'm getting interesting feedback along the lines of 'great tech skills', 'super interesting background' 'but.....'. The 'but.....' is obviously the kicker and is rarely very actionable. I have to just keep sucking it up and continue coding. I feel farely satisfied that by the time someone actually gives me a job I will be a pretty kick ass coder. Having said that, today's #AdventOfCode took me an absolute age to complete. These challenges are tres tricky!
+
 ### R3D65
 Tech interview day today. The pairing challenge was to create a browser based countdown timer in javascript. I was a bit panicked initially as I somehow see to have skipped over basic DOM manipulation in vanilla javascript and have jumped straight to react whenever I have client side work. Anyway, it went well enough. I was allowed to use google and we worked our way through setInterval() and clearInterval() and had a functioning ticker in no time.
 
