@@ -13,6 +13,14 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R372 Friday 21 Dec
+After celebrating yesterday's job offers I finally felt able to relaxe a bit today but I have still been making progress with the [Swift course on Udemy](https://www.udemy.com/share/100CAEAkMdcF1QQ3g=/). It's a pretty good course with plenty of opportunity to put yourself to the test. My aim is to have created a simple food logging app by the end so that I can stop paying a monthly subscription for my current photo logging app.
+
+### R3D69 - R3D71
+I haven't been keeping up to date with the logging but I have been coding every day. The first day I was refactoring one of my tech tests and then defending myself at the tech interview.
+Then I started a new ios app development course using Swift. I'm totally covering my bases in case I need to go to the next careers fair.
+Finally I had an interview at a very exciting organisation and joy of joys I was offered the role the next day. Whoop whoop.
+
 ### R3D68
 I am back on Frontend Masters today and kicking off with the Four Semesters of Computer Science in 5 hours workshop. That's taking me back to Big O notation and brings me closer to actually finishing my sock sorting blog. Watch this space...
 Frontend Masters are pretty top notch - the thing that sets them apart is their focus on sreen real estate. They consistently zoom and resize so the code occupies the full screen. This stuff matters when you need specs or like to view on your iPhone.
