@@ -13,7 +13,10 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
-### R372 Friday 21 Dec
+### R3D73 Monday xmas Eve
+More swift programming challenges today.
+
+### R3D72 Friday 21 Dec
 After celebrating yesterday's job offers I finally felt able to relaxe a bit today but I have still been making progress with the [Swift course on Udemy](https://www.udemy.com/share/100CAEAkMdcF1QQ3g=/). It's a pretty good course with plenty of opportunity to put yourself to the test. My aim is to have created a simple food logging app by the end so that I can stop paying a monthly subscription for my current photo logging app.
 
 ### R3D69 - R3D71
