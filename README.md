@@ -13,6 +13,12 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D75
+More RoR and React experimentation.
+
+### R3D74 January 2nd 2019
+Started the New Year preparing for my new job. So that means fathoming out how to link Ruby on Rails with React.
+
 ### R3D73 Monday xmas Eve
 More swift programming challenges today.
 
