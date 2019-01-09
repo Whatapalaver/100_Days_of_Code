@@ -13,6 +13,9 @@ I'm now combining my 100DaysofCode journing with Instagram, see [Whatapalaver Co
 
 ## Log
 
+### R3D76/77
+The past two days have been given over to GraphQL. I built a GraphQL server in Rails yesterday and today I’m working on the Frontend implementation of a pre-prepared Node server. I’m pretty impressed with the concepts but it might take me a while to fully geasp modifiers and resolvers. 
+
 ### R3D75
 More RoR and React experimentation.
 
