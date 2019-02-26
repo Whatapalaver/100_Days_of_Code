@@ -10,6 +10,24 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D4
+---
+
+Ben (from Makers) very kindly offered to review my manifest-pdf script over the weekend and he gave me some excellent pointers. Today I had the opportunity to work through some improvements which involved a bit of class extraction, improving the structure of my CLI, adding a config file option so you don't have to pass a gazillion flags in the run command and a general tidying up of my initialise method. I just need to retrofit some much needed tests!
+
+R4D3 Monday 25th
+---
+
+Struggling with Elasticsearch again today, dabbling with some frontend integrations but finally having some success with Reactsearch which provides React components to work with an elasticsearch instance. I was able to mock up a dummy interface with some high level facets and added some uber cool illustrations courtesy of robohash.org . I need to explore nested fields next.
+
+R4D2
+---
+
+I wanted to practice with some end to end elasticsearch work. I've been working on aggregations and nested queries but all within kibana. I feel the need to work it through with a full application to try and seal some gaping holes in my conceptualisation. I thought it would be great to kill two birds with one stone and work this through in python....
+Hours lost.
+To fathoming out virtualenv and then virtualenvwrapper and then trying to fix $PATH errors and blah blah.
+Bottom line is that I got no further than an extremely rudimentary Hello World in flask. No where near elasticsearch at all.
+
 
 R4D1 - The development plan unveiled
 ---
