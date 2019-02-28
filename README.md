@@ -20,6 +20,18 @@ In addition of learned
 - some css tricks about increasing specificity to override some weird styling imported in one of my npm packages.
 - managed to debug a volume mount between my local machine and Docker which should mean I can work on this on my home machine
 
+R4D6
+--
+
+I was juggling between vanilla JS with CSS and Elasticsearch today. I started the Wes Bos 30 day challenge last night as I'm aware that I have leapt over the basic 'manipulating the DOM with vanilla JS' stage of my learning. Today I was therefore making a little drumkit for the browser, moderately jazzed up with css grid.
+I also worked on Reactivesearch experimenting with the very beta implementation of support for nested fields. I had some significant excitement as I fathomed out now end of bugs and glitches and really felt a lightbulb moment as the momentous power of chrome inspector was revealed to me.
+
+R4D5
+---
+
+Elasticsearch with reactivesearch excitement today. I got my fullstack implementation working with the V&A collections data but so far I can only play with the high level, non-nested data fields and there arent actually many of those.
+I wrote an abstract for a potential lightening talk at a German IIIF conference later in the year. Here's hoping its not accepted.
+
 R4D4
 ---
 
