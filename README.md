@@ -10,8 +10,20 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D8 Sat 2nd Mar
+---
+
+Still on Vanilla JS experiments thanks to Wes Bos. Completed no4 the css variable exercise. Pretty useful stuff.
+
+R4D7
+---
+
+Trying to fathom out why Reactivesearch is doing odd stuff to my empty fields was a great opportunity for exploring chrome console. There is just so much stuff to be revealed by that tool. I've typically ignored the network tab but this one enabled me to see the POST header and the body returned. That enabled me to fathom out how the library was converting its default query into a true elastocsearch query. Still, haven't exactly solved my problem but I'm on the right track and have my sleuthing tools lined up now.
+
+Also a css and js clock from JS30.
+
 R4D6
---
+---
 
 I was juggling between vanilla JS with CSS and Elasticsearch today. I started the Wes Bos 30 day challenge last night as I'm aware that I have leapt over the basic 'manipulating the DOM with vanilla JS' stage of my learning. Today I was therefore making a little drumkit for the browser, moderately jazzed up with css grid.
 I also worked on Reactivesearch experimenting with the very beta implementation of support for nested fields. I had some significant excitement as I fathomed out now end of bugs and glitches and really felt a lightbulb moment as the momentous power of chrome inspector was revealed to me.
