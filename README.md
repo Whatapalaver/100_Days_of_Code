@@ -10,6 +10,12 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D10 Mon 4th Mar
+---
+
+Much Reactivesearch hair pulling today. Experimented with copy_to to create new keyword in my index. Failed to get the nested - multiobject field to render in the multilist component. Had a minor success when I managed to display categories only to discover the results were rubbish. Ended with a high though - finally managed to get ternaries to work in my react component so that non existent images didn't crash my app. Yay!
+Also dabbled with JS30 and JS transitions with flexbox.
+
 R4D9
 ---
 
