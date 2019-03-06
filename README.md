@@ -10,6 +10,18 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D12
+---
+
+Found a great toold for testing custom ES analysers and then discovered its now broken for the latest version of ES. That took quite a few hours of hairpulling and Stack Overflowing but I had the bug confirmed. I then discovered the more manual but still useful \_analyse with explain: true which just about saved the day.
+Started a FEM course on JS - From Fundamentals to Functional JS with Bianca Gandalfo. Pretty good so far.
+
+R4D11
+---
+
+Creating custom analysers for elasticsearch. 
+Also explored html5 canvas which is cool.
+
 R4D10 Mon 4th Mar
 ---
 
