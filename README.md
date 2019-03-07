@@ -10,6 +10,11 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D13
+---
+
+Everytime I try and setup a Python dev environment I end up in a whole heap of poop! It was going relatively well today, I sorted the $PATH bit that normally confuses me and even set up Virtualenv but I rand into headache zone when I tried to clone a repo into a virtualenv and then lurched from one head bang to the next. By the end of the day I had finally set up my environment with a Vagrant box and an Elasticsearch instance so I could quickly race through some exercises from the excellent Relevant Search book by Doug Turnball and John Berryman. At least I'm in a good place to crack on tomorrow.
+
 R4D12
 ---
 
