@@ -10,15 +10,32 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D15 - Tue 12th Mar
+---
+
+I had a long weekend away from code. 
+
+I managed to setup a Flask app tonintegrate with my Elasticsearch instance running on localhost. it outlined the need to do some basic python lessons as i had a bugger of a job trying to perform a substring operation within a jinja template. I was trying to force a JS function but of course every language has its own special way. 
+
+Today was the first night of the React bootcamp I arranged yesterday. 
+Tonight was ES6 and JavaScript features. Very useful actually and I coped well because of the Frontend Masters (Functional JS) course I’ve been doing on my commute. 
+
+R4D14
+---
+
+I spent some time on a vanilla JS project to showcase a stereogram from our collection. I called it Wiggle Moon as I’m experimenting with a 3D wiggle. It’s pretty simple but I wouldnt have been able to do it before I started the Wes Bos JS30 course. 
+
+In the afternoon it was back to Python and my attempt to create an elasticsearch interface. 
+
 R4D13
 ---
 
-Everytime I try and setup a Python dev environment I end up in a whole heap of poop! It was going relatively well today, I sorted the $PATH bit that normally confuses me and even set up Virtualenv but I rand into headache zone when I tried to clone a repo into a virtualenv and then lurched from one head bang to the next. By the end of the day I had finally set up my environment with a Vagrant box and an Elasticsearch instance so I could quickly race through some exercises from the excellent Relevant Search book by Doug Turnball and John Berryman. At least I'm in a good place to crack on tomorrow.
+Everytime I try and setup a Python dev environment I end up in a whole heap of poop! It was going relatively well today, I sorted the $PATH bit that normally confuses me and even set up Virtualenv but I ran into headache zone when I tried to clone a repo into a virtualenv and then lurched from one head bang to the next. By the end of the day I had finally set up my environment with a Vagrant box and an Elasticsearch instance so I could quickly race through some exercises from the excellent Relevant Search book by Doug Turnball and John Berryman. At least I'm in a good place to crack on tomorrow.
 
 R4D12
 ---
 
-Found a great toold for testing custom ES analysers and then discovered its now broken for the latest version of ES. That took quite a few hours of hairpulling and Stack Overflowing but I had the bug confirmed. I then discovered the more manual but still useful \_analyse with explain: true which just about saved the day.
+Found a great tool for testing custom ES analysers and then discovered its now broken for the latest version of ES. That took quite a few hours of hairpulling and Stack Overflowing but I had the bug confirmed. I then discovered the more manual but still useful \_analyse with explain: true which just about saved the day.
 Started a FEM course on JS - From Fundamentals to Functional JS with Bianca Gandalfo. Pretty good so far.
 
 R4D11
