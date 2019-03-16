@@ -10,6 +10,17 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D18 Saturday 16th Mar
+---
+
+Homework time today for the React bootcamp. I was refactoring the facebook messenger app. Again everything is crammed into app.js. I doscovered a cool little extension for VSCode that lets me write out a stateless functional component just by typi sfc and a class component with cc. Total genius.
+
+R4D15 - D17
+---
+
+All python and elasticsearch. Mainly frustrations with a modicum of yay!
+Thursday was day 2 of the React bootcamp where we refactored a React app with everything crammed into app.js
+
 R4D15 - Tue 12th Mar
 ---
 
