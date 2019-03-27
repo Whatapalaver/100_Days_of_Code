@@ -10,10 +10,32 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D29
+---
+
+I was set a 'trivial' challenge of creating a mini react app to exploit the zoomable power of IIIF. It was deemed trivial as I was building on the shoulders of others but in my limited experience, nothing is ever trivial. I spent the entire morning battling with yarn trying to install a gazillion dependencies that had version conflicts, multiple dependencies deep. This is a total frustration...
+
+I spent the evening at the ReactJS bootcamp where we were starting from scratch and building CRA app to exploit an image api. It proved to be a welcome confidence boost and I learned quite a bit about routing and even materialui which I'm not a major fan of yet.
+
+R4D28 
+---
+
+I'm exploring web components today. I love the concept of componentisation without the ties of a framework / (massive React library) but I am struggling to get to grips with the syntax. I'm hopping between native components and those built with lit-element and that is probably adding to the confusion.
+
+R4D27 24th Mar
+---
+
+I had a very brief session of coding today, working through a recent intro to Python course on FEM.
+
+R4D19-26
+---
+
+I haven't logged consistently this week but its all been Elasticsearch but also two session with reactJS. 
+
 R4D18 Saturday 16th Mar
 ---
 
-Homework time today for the React bootcamp. I was refactoring the facebook messenger app. Again everything is crammed into app.js. I doscovered a cool little extension for VSCode that lets me write out a stateless functional component just by typi sfc and a class component with cc. Total genius.
+Homework time today for the React bootcamp. I was refactoring the facebook messenger app. Again everything is crammed into app.js. I discovered a cool little extension for VSCode that lets me write out a stateless functional component just by typi sfc and a class component with cc. Total genius.
 
 R4D15 - D17
 ---
@@ -26,7 +48,7 @@ R4D15 - Tue 12th Mar
 
 I had a long weekend away from code. 
 
-I managed to setup a Flask app tonintegrate with my Elasticsearch instance running on localhost. it outlined the need to do some basic python lessons as i had a bugger of a job trying to perform a substring operation within a jinja template. I was trying to force a JS function but of course every language has its own special way. 
+I managed to setup a Flask app to integrate with my Elasticsearch instance running on localhost. it outlined the need to do some basic python lessons as I had a bugger of a job trying to perform a substring operation within a jinja template. I was trying to force a JS function but of course every language has its own special way. 
 
 Today was the first night of the React bootcamp I arranged yesterday. 
 Tonight was ES6 and JavaScript features. Very useful actually and I coped well because of the Frontend Masters (Functional JS) course I’ve been doing on my commute. 
