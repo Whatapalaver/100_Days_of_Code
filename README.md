@@ -10,6 +10,22 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+
+R4D31
+---
+
+Today's head banging moment was courtesy of webpack. Perhap's it was making me suffer because I came into work wearing my parceljs t-shirt. I'm juggling three projects at the moment and all of them are falling over because of webpack config issues. I think I've solved two after reading the following helpful blogs. The last one has too much black magic imported via node_modules for me to totally fathom.
+
+[Beginner webpack](https://medium.com/javascript-training/beginner-s-guide-to-webpack-b1f1a3638460)   
+[Slightly more advanced webpack](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9)  
+
+R4D30
+---
+
+Web components galore today. I was focussed on raw web components which were probably ok but I had significant webpack issues which made it pretty tricky to test.
+Finished the day with Styled Components in React but also managed to fix a hosting error I had on netlify as a result of me not really 'getting' SPA and url paths as well as perhaps a bit of server vs clientside confusion.
+I'm still confused but this blog helped, [File not found on netlify](https://www.slightedgecoder.com/2018/12/18/page-not-found-on-netlify-with-react-router/)  
+
 R4D29
 ---
 
