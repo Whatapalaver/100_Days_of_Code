@@ -18,6 +18,7 @@ Today's head banging moment was courtesy of webpack. Perhap's it was making me s
 
 [Beginner webpack](https://medium.com/javascript-training/beginner-s-guide-to-webpack-b1f1a3638460)   
 [Slightly more advanced webpack](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9)  
+and also this link which explained how my last project was managing to [auto-generate an index,html](https://medium.com/a-beginners-guide-for-webpack-2/index-html-using-html-webpack-plugin-85eabdb73474), seemingly by magic:
 
 R4D30
 ---
