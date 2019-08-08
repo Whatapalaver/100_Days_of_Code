@@ -10,6 +10,24 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D33
+---
+
+I'm not very well at the moment but I'm trying to maintain the learning spirit by working through a [Rails masterclass](https://github.com/Whatapalaver/rails_portfolio) from Udemy. I've implemented friendly_id for creating parametised slugs and used custom routes to implement a status toggle feature for blog posts. Also just finished off the [scrabble_score challenge](https://exercism.io/tracks/ruby/exercises/scrabble-score/solutions/485cc97dd82c4d0cb85f069fb50039e8) at exercism.io where I learned some cool stuff like using merge to create a hash from an existing hash but adding a default value, also how to use a variable in a regex expression.
+
+R4D32 6th Aug
+---
+
+I had a tricky challenge from the legacy code base today involving Sir Trevor, custom react components, some custom vanilla js and a load of rails functionality. I was ready to start weeping just before lunch but then we tried 3-way pairing to bounce ideas, then down to solo experimentation and back to pairing. The problem was cracked within 60 mins and by the end of the day I'd fixed 3 Sir Trevor blocks and submitted my PR. To think I was once dubious about pairing!
+
+Also reminds me of this great new video series showing how an [experienced developer might approach a challenge with an unfamiliar legacy code base](https://www.simplybusiness.co.uk/about-us/tech/2019/07/working-with-legacy-code-e01/).
+
+Huge Hiatus......
+---
+
+I've probably been away for about 4 months as I felt a bit awkward writing about work stuff everyday but looking back that seems to be a bit of a shame as it means I've lost quite a few of learnings from that period and there have been loads.
+
+So I'm now I'm back, about a week after my 6 month work anniversay and I'm going to try and resurrect near daily learning notes. My focus areas have shifted slightly with now more focus on becoming super proficient at Rails and also learning Python so I can be a nifty scripter.
 
 R4D31
 ---
@@ -20,7 +38,7 @@ Today's head banging moment was courtesy of webpack. Perhap's it was making me s
 [Slightly more advanced webpack](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9)  
 and also this link which explained how my last project was managing to [auto-generate an index,html](https://medium.com/a-beginners-guide-for-webpack-2/index-html-using-html-webpack-plugin-85eabdb73474), seemingly by magic:
 
-R4D30
+R4D30 
 ---
 
 Web components galore today. I was focussed on raw web components which were probably ok but I had significant webpack issues which made it pretty tricky to test.
