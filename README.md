@@ -10,6 +10,21 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D34
+---
+
+Today I got to deal with some meaty Git issues as one of my commits had been reverted and it seems there is a whole workflow related to reverting reverts. I had an interesting historical interlude while I read an article by [Linus Torvalds](https://github.com/git/git/blob/master/Documentation/howto/revert-a-faulty-merge.txt) and this nicely illustrated blog on the subject of [reverting git reverts](https://blog.theodo.com/2016/11/revert-the-revert-and-avoid-conflicts/).
+
+In the end my process was:
+
+- `git checkout master` 
+- `git pull origin master` this is the branch that had my suspect commit and the revert
+- `git checkout suspect_branch`
+- `git rebase master` my suspect branch now has the revert applied (see git log)
+- `git revert SHA_of_original_reversion`
+- Correct the suspect branch, commit and push
+- I can now repeat the pull request and all commits should be applied
+
 R4D33
 ---
 
