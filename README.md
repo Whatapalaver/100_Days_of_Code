@@ -10,6 +10,12 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D35
+---
+
+I've been mentoring some of the early stage Ruby challenges on exercism.io I find it surprising how many different iterations are possible and it keeps me on my toes. Today I was reminded of the splat operator.
+I also did a bit of my Rails portfolio and experimented with scope definitions and setting defaults after_initialize.
+
 R4D34
 ---
 
