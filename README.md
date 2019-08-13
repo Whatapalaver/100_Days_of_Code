@@ -10,6 +10,19 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D37
+---
+
+Our lack of rails-ujs reared it's head again. It's one of the hidden magical elements of rails and without it you will pull your hair out wondering why things like link_to and confirmations don't work. 
+Useful links: [rail-ujs missing](https://stackoverflow.com/questions/57181467/rails-asset-pipeline-removed-how-to-replicate-rails-ujs-helper-methods) and [rails j-query magic](https://stackoverflow.com/questions/7465919/rails-link-to-method-geting-when-it-should-delete)
+
+Also discovered some whizzy magic in a form_builder with a method that reaches into the class model to retrieve length validations that then get converted to javascript form field length counters. Ooh ahh.
+
+R4D36
+---
+
+Got to wrestle with skip-worktree in git again while I continue to struggle with maintaining local variants of config files. Also getting my head around schema.org
+
 R4D35
 ---
 
