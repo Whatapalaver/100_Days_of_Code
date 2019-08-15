@@ -10,6 +10,11 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D38
+---
+
+Learned more about the asset pipeline in Rails and fixed the rails-ujs issue by ensuring it would be wrapped up in the webpacker process. Experimented with markdown static site generators and plumped for [MkDocs](https://www.mkdocs.org/) which so far appears to do everything I need, which basically means it automates the navigation production and combining that with awesome-pages gives me the nested, foldable sidebar that I desire.
+
 R4D37
 ---
 
