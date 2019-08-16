@@ -10,6 +10,11 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D39
+---
+
+Loads of Rails learning today. Putting my code to test on mega data (1.2m+ objects) revealed no end of performance issues. I had to fathom out how to get console logging messages onto AWS Cloudwatch (which is not the most intuitive of interfaces) so I could attempt to debug. Also learned that assigning a db query to a variable eg @results does not save the result, only the active record relationship, and referring to that variable just re-runs the db query.  Adding `.to_a` at the end ensured my results were saved as an array and stopped excessive db calls. I also got into some nitty gritty jsonb querying syntax but its so ugly I can't bring myself to document it. Also, some more migration rollbacks and indexing practice on json fields.
+
 R4D38
 ---
 
