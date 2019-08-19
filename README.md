@@ -10,6 +10,11 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D40
+---
+
+A major rebase of a 3 month branch lead to new git tricks. I didcovered the interactive rebase mode where you can squash and rename commits.
+
 R4D39
 ---
 
