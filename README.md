@@ -10,6 +10,23 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+RD42
+---
+
+Fixed the timeout issues by:
+
+1. Performing a Net::HTTP head request rather than a full GET request - I only needed to test for a HTTPOK response
+2. Using .start() and .finish to open and close an http connection, so that I could loop through all the image checks without having to open and close for each one
+
+That's a great learning experience and for once I found the [Ruby docs](https://ruby-doc.org/stdlib-2.6.3/libdoc/net/http/rdoc/Net/HTTP.html) to be pretty useful when I finally persuaded myself to read them.
+
+This afternoon I'm going to get my head around memoisation - which sounds like another performance hack I need to get familiar with.
+
+RD41
+---
+
+Still trying to wrap up a branch that I've been working on for months. Testing on the AWS servers with mega tonnes of data (technical term) has led to no end of performance headaches. Today I've been trying to minimise the number of calls to a method that tests the accessibility of image urls. Despite 4 refactor attempts I'm still plagued with timeouts.
+
 R4D40
 ---
 
