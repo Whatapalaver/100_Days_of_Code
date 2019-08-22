@@ -10,6 +10,11 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+RD43
+---
+
+Much Rails fun today. Managed to avoid a React rabbit hole by restricting a render json statement with the use of a named scope in the model. Such a neat solution. Also got fairly embroiled with some controller rendering to catch some edge case crashes but that was much less fun. I did fathom out how to have [multiple render statements in a single action](https://blog.arkency.com/2014/07/4-ways-to-early-return-from-a-rails-controller/) by the use of `and return`. 
+
 RD42
 ---
 
