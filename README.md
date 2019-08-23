@@ -10,6 +10,16 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+RD44
+---
+
+I went back to the SQL drawing board today as I found it just too mind boggling to fathom out Rails 5 ActiveRecord syntax for named scopes. I thought it might be easier to get things working with SQL and then do a direct translation. Although there is a google translate equivalent for SQL to ER (scuttle.io) I wasn't convinced with the output. Anyway, I eventually got some syntax for finding objects with images (with_images) and those without (orphaned). Unfortunately the first with_image query won't give me DISTINCT records and that is [apparently tricky in ActiveRecord](https://pdabrowski.com/blog/rails-order-with-distinct), at least in the context of SCope. Ugghh.
+
+```ruby
+scope :orphaned, -> { left_outer_joins(:media_items).where('enhanced_object_media_items.enhanced_object_id is null') }
+scope :with_image, -> { joins(:media_items).where('enhanced_object_media_items.enhanced_object_id is not null') }
+```
+
 RD43
 ---
 
