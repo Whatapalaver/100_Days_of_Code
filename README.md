@@ -10,6 +10,13 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+RD45 Tues 27th August
+---
+
+Fathomed out how to solve my DISTINCT problem this morning. It turned out to be an issue with our version of PG_Search. It was well documented in the github issues pages as well as a nifty workaround to bring the ORDER BY field into the SELECT statement. Nice easy win after a couple of days of struggle.
+
+Also discovered [Fast AI](https://course.fast.ai/) a Deep Learning course for coders using jupyter workbooks and (in my case) google collab. Now I just need to find a way to sneak 10 hours of Python training into each week so I can become an ML afficionado.
+
 RD44
 ---
 
