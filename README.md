@@ -10,6 +10,16 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+RD47
+---
+
+Today I am making super snazzy APIs with Grape. I very nearly fell into a 'teach yourself ActiveModel Serializer' rabbit hole but rescued myself in the nick of time with some plain ole ruby array methods. This [blog post](https://dreamingecho.es/blog/create-a-super-fancy-api-with-grape) has been the most informative so far on slighly more than trivial API front. By the time I've fathomed out how to utilise multiple params to show X records modified in the last Y days, I should be on track to write my own blog.
+
+RD46
+---
+
+Resolved a Rails crash bug that ocurred due to a foreign key exception on delete. I'd seen numerous ways of escaping all exception crashes but this carries a stench of excess and it seems that checking for potential conflicts before triggering destroy is the way to go. Now my users are informed that the resource is being used elsewhere so they cannot delete it under any circumstances!
+
 RD45 Tues 27th August
 ---
 
