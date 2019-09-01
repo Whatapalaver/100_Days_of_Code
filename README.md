@@ -10,6 +10,12 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+RD48
+---
+
+Creative was spent trying to generate an image dataset from the V&A api so I can start training a fast.ai deep learning model. Rather than Deep Learning, I am deep in the data cleansing quagmire. I'm using Ruby to iterate through an NDJSON dataset but probably ought to be using it as an opportunity to crank up my python skills.
+Also got some more excellent feedback on one of my Ruby exercism solutions - it reminds me that I need to dust of my Sandi Metz OOP book.
+
 RD47
 ---
 
