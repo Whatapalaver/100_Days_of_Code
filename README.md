@@ -10,6 +10,20 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+RD50
+---
+
+I discovered en.yml today the secret source of much weirdness in Rails. I coudln't fathom out a cryptic validation that referred to a model attribute that didn't exist but lo, it is 'translated' in en.yml. Pretty darn irritating I think. More API work and some battle with seeding complex relationships in the dev db so I can test my implementation of schema.org.
+
+Completed the Luhn exercism exercise after an incredible learning experience through the code review process. I'm sad I'm almost at the end.
+
+RD49
+---
+
+Puzzling behaviour with conflicting migrations in the qa:deploy. The problem arises when we have overlapping migration changes across branches but deploy to the same environment. I do hope this isn't the way forward: [Migration conflicts](http://dgmstuart.github.io/blog/2017/04/12/how-to-recover-from-rails-database-schema-conflicts-when-rebasing/).
+
+Extracted a tonne of images from our collections site and strted to going through the motions of setting u a Deep Learning model in Collab.
+
 RD48
 ---
 
