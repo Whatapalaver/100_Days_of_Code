@@ -13,16 +13,23 @@ My previous accountability rounds are till available here:
 RD50
 ---
 
-I discovered en.yml today the secret source of much weirdness in Rails. I coudln't fathom out a cryptic validation that referred to a model attribute that didn't exist but lo, it is 'translated' in en.yml. Pretty darn irritating I think. More API work and some battle with seeding complex relationships in the dev db so I can test my implementation of schema.org.
+I discovered en.yml today the secret source of much weirdness in Rails. I couldn't fathom out a cryptic validation that referred to a model attribute that didn't exist but lo, it is 'translated' in en.yml. Pretty darn irritating I think. 
+
+More API work and some battle with seeding complex relationships in the dev db so I can test my implementation of schema.org.
 
 Completed the Luhn exercism exercise after an incredible learning experience through the code review process. I'm sad I'm almost at the end.
+
+RD50
+---
+
+Train commute today so I took the opportunity to watch Lesson 2 of Fast.ai. I have a better understanding of the whole Deep Learning process now and am impressed by the notion of using image transformations to artificially boost your training data set. I also need to acquire some extra artist images to act as an 'untrained' validation set for my collections model.
 
 RD49
 ---
 
 Puzzling behaviour with conflicting migrations in the qa:deploy. The problem arises when we have overlapping migration changes across branches but deploy to the same environment. I do hope this isn't the way forward: [Migration conflicts](http://dgmstuart.github.io/blog/2017/04/12/how-to-recover-from-rails-database-schema-conflicts-when-rebasing/).
 
-Extracted a tonne of images from our collections site and strted to going through the motions of setting u a Deep Learning model in Collab.
+Extracted a tonne of images from our collections site and started to going through the motions of setting up a Deep Learning model in Collab.
 
 RD48
 ---
