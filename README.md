@@ -10,7 +10,17 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
-RD50
+RD53
+---
+
+Broke the deployment server today and then got to explore the deploy process on the AWS server. Breaking, debugging and hopefully fixing things is a great way to understand a process. It helps when the breakage isn't too catastrophic of course. 
+
+RD52
+---
+
+Exploring the implications of upgrading our site to using Rails 6. My initial research suggests that it will be tres problematic and I can understand how applications quickly become outdated as the fear of upgrade is high. I'm going to bite the bullet though, se up a new branch and follow the approach in this [guide to Rails 6 upgrade](https://selleo.com/blog/how-to-upgrade-to-rails-6), which will force all the problems out into the open.
+
+RD51
 ---
 
 I discovered en.yml today the secret source of much weirdness in Rails. I couldn't fathom out a cryptic validation that referred to a model attribute that didn't exist but lo, it is 'translated' in en.yml. Pretty darn irritating I think. 
