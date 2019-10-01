@@ -10,6 +10,18 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+RD54-74
+---
+
+WellI've had a massive haitus in my coding updates. Not because I was fired following my last post where I confessed to crashing the deployment server but because I went away on holiday and then forgot all about my responsibilities.
+
+So as a quick update.....
+
+- ruby parsing script for dealing with mega-tonnes of data (technical term)
+- some dabbling with deep learning courtesy of fast.ai I've started working with the V&A collections data to build a tool that can distinguish between two different designers
+- more schema.org
+- more rails
+
 RD53
 ---
 
