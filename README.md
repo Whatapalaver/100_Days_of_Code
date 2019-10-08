@@ -10,10 +10,19 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
-RD54-74
+R4D75-80 (end 7th Oct)
 ---
 
-WellI've had a massive haitus in my coding updates. Not because I was fired following my last post where I confessed to crashing the deployment server but because I went away on holiday and then forgot all about my responsibilities.
+There's been a lot of focus on Docker again trying to improve efficiencies in my dev setup. The biggest win so far has been finding this gem of a blog on a [killer Rails and Docker workflow](https://auth0.com/blog/ruby-on-rails-killer-workflow-with-docker-part-1/). The need for more efficiency was driven by my attempts to experiment with both a Ruby and Rails version upgrade of the main site. That has led to many bundler issues that are confounded by the slow build process. There is much more for me to explore here.
+
+Also of note - it's Hacktoberfest and I opened a small Ruby repo that I intend to use to support a blog post on using Ruby to create a command line tool for parsing mega data. I started the repo with a few issues marked as great for firstimers and I have been very pleasantly surprised by the quality of the responses and PRs. I've learn't some really neat tricks through this collaborative approach and it's a shame that it will likely end in Novemeber. Mind you I will definitely try this approach again with side projects.
+
+Nothing else terribly exciting - small improvements to code base via tests etc. 
+
+R4D54-74
+---
+
+Well I've had a massive haitus in my coding updates. Not because I was fired following my last post where I confessed to crashing the deployment server but because I went away on holiday and then forgot all about my responsibilities.
 
 So as a quick update.....
 
@@ -22,17 +31,17 @@ So as a quick update.....
 - more schema.org
 - more rails
 
-RD53
+R4D53
 ---
 
 Broke the deployment server today and then got to explore the deploy process on the AWS server. Breaking, debugging and hopefully fixing things is a great way to understand a process. It helps when the breakage isn't too catastrophic of course. 
 
-RD52
+R4D52
 ---
 
 Exploring the implications of upgrading our site to using Rails 6. My initial research suggests that it will be tres problematic and I can understand how applications quickly become outdated as the fear of upgrade is high. I'm going to bite the bullet though, se up a new branch and follow the approach in this [guide to Rails 6 upgrade](https://selleo.com/blog/how-to-upgrade-to-rails-6), which will force all the problems out into the open.
 
-RD51
+R4D51
 ---
 
 I discovered en.yml today the secret source of much weirdness in Rails. I couldn't fathom out a cryptic validation that referred to a model attribute that didn't exist but lo, it is 'translated' in en.yml. Pretty darn irritating I think. 
@@ -41,42 +50,42 @@ More API work and some battle with seeding complex relationships in the dev db s
 
 Completed the Luhn exercism exercise after an incredible learning experience through the code review process. I'm sad I'm almost at the end.
 
-RD50
+R4D50
 ---
 
 Train commute today so I took the opportunity to watch Lesson 2 of Fast.ai. I have a better understanding of the whole Deep Learning process now and am impressed by the notion of using image transformations to artificially boost your training data set. I also need to acquire some extra artist images to act as an 'untrained' validation set for my collections model.
 
-RD49
+R4D49
 ---
 
 Puzzling behaviour with conflicting migrations in the qa:deploy. The problem arises when we have overlapping migration changes across branches but deploy to the same environment. I do hope this isn't the way forward: [Migration conflicts](http://dgmstuart.github.io/blog/2017/04/12/how-to-recover-from-rails-database-schema-conflicts-when-rebasing/).
 
 Extracted a tonne of images from our collections site and started to going through the motions of setting up a Deep Learning model in Collab.
 
-RD48
+R4D48
 ---
 
 Creative time was spent trying to generate an image dataset from the V&A api so I can start training a fast.ai deep learning model. Rather than Deep Learning, I am deep in the data cleansing quagmire. I'm using Ruby to iterate through an NDJSON dataset but probably ought to be using it as an opportunity to crank up my python skills.
 Also got some more excellent feedback on one of my Ruby exercism solutions - it reminds me that I need to dust of my Sandi Metz OOP book.
 
-RD47
+R4D47
 ---
 
 Today I am making super snazzy APIs with Grape. I very nearly fell into a 'teach yourself ActiveModel Serializer' rabbit hole but rescued myself in the nick of time with some plain ole ruby array methods. This [blog post](https://dreamingecho.es/blog/create-a-super-fancy-api-with-grape) has been the most informative so far on slighly more than trivial API front. By the time I've fathomed out how to utilise multiple params to show X records modified in the last Y days, I should be on track to write my own blog.
 
-RD46
+R4D46
 ---
 
 Resolved a Rails crash bug that ocurred due to a foreign key exception on delete. I'd seen numerous ways of escaping all exception crashes but this carries a stench of excess and it seems that checking for potential conflicts before triggering destroy is the way to go. Now my users are informed that the resource is being used elsewhere so they cannot delete it under any circumstances!
 
-RD45 Tues 27th August
+R4D45 Tues 27th August
 ---
 
 Fathomed out how to solve my DISTINCT problem this morning. It turned out to be an issue with our version of PG_Search. It was well documented in the github issues pages as well as a nifty workaround to bring the ORDER BY field into the SELECT statement. Nice easy win after a couple of days of struggle.
 
 Also discovered [Fast AI](https://course.fast.ai/) a Deep Learning course for coders using jupyter workbooks and (in my case) google collab. Now I just need to find a way to sneak 10 hours of Python training into each week so I can become an ML afficionado.
 
-RD44
+R4D44
 ---
 
 I went back to the SQL drawing board today as I found it just too mind boggling to fathom out Rails 5 ActiveRecord syntax for named scopes. I thought it might be easier to get things working with SQL and then do a direct translation. Although there is a google translate equivalent for SQL to ER (scuttle.io) I wasn't convinced with the output. Anyway, I eventually got some syntax for finding objects with images (with_images) and those without (orphaned). Unfortunately the first with_image query won't give me DISTINCT records and that is [apparently tricky in ActiveRecord](https://pdabrowski.com/blog/rails-order-with-distinct), at least in the context of SCope. Ugghh.
@@ -86,12 +95,12 @@ scope :orphaned, -> { left_outer_joins(:media_items).where('enhanced_object_medi
 scope :with_image, -> { joins(:media_items).where('enhanced_object_media_items.enhanced_object_id is not null') }
 ```
 
-RD43
+R4D43
 ---
 
 Much Rails fun today. Managed to avoid a React rabbit hole by restricting a render json statement with the use of a named scope in the model. Great bit of teamwork today meant that I was able to bring a whole series of workflows together in my head. And such a neat solution. Also got fairly embroiled with some controller rendering to catch some edge case crashes but that was much less fun. I did fathom out how to have [multiple render statements in a single action](https://blog.arkency.com/2014/07/4-ways-to-early-return-from-a-rails-controller/) by the use of `and return`. 
 
-RD42
+R4D42
 ---
 
 Fixed the timeout issues by:
@@ -103,7 +112,7 @@ That's a great learning experience and for once I found the [Ruby docs](https://
 
 This afternoon I'm going to get my head around memoisation - which sounds like another performance hack I need to get familiar with.
 
-RD41
+R4D41
 ---
 
 Still trying to wrap up a branch that I've been working on for months. Testing on the AWS servers with mega tonnes of data (technical term) has led to no end of performance headaches. Today I've been trying to minimise the number of calls to a method that tests the accessibility of image urls. Despite 4 refactor attempts I'm still plagued with timeouts.
