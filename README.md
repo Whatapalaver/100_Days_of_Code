@@ -18,6 +18,15 @@ Back to basics today with some Frontend Masters training on css. I covered Estel
 - you can add your own style rules to the chrome console. I always new you could add new rules but new styles such as pseudo classes like ::placeholder were new to me
 - the chrome console can also reveal other strange elements that can be styled eg scrollbar elements - check the Styles section for syntax
 - finally understood what block and inline elements actually are and therefore what block-inline might mean.
+- also Susan Kramer's mantra, "If you float, you must clear"
+
+```css
+article::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+```
 
 R4D81-83
 ---
