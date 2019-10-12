@@ -10,6 +10,22 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D84 (11th Oct)
+---
+
+Back to basics today with some Frontend Masters training on css. I covered Estelle Weyl's css Masterclass alongside Susan Kramer's more introductory course on the same topic. It may be a bit arse about face covering the basics at this stage but I'm afraid css fundamentals keep catching me out. Some cool css tips I've discovered recently:
+
+- you can add your own style rules to the chrome console. I always new you could add new rules but new styles such as pseudo classes like ::placeholder were new to me
+- the chrome console can also reveal other strange elements that can be styled eg scrollbar elements - check the Styles section for syntax
+- finally understood what block and inline elements actually are and therefore what block-inline might mean.
+
+R4D81-83
+---
+
+I was reminded of the importance of test coverage after puzzling over a particularly annoying test that had no business failing my build attempts. It was so unexpected and unwelcome that I even considered deleting it! After a fairly tricky debug I discovered its worth and made a little sacrifice to the minispec gods as the insignificant test saved me from a ticking time bomb. Without this fix, my welcome screens would one by one loose events until the screens were empty.
+
+I also had some legacy code joy. Sometimes it's rather neat to uncover some really smart code. I found some magic today which had never actually been used before in the fairly substantial life of the codebase. It was just sitting there, waiting for the rest of the workflow to be pieced together so that it could wow me with its magic, years down the line.
+
 R4D75-80 (end 7th Oct)
 ---
 
