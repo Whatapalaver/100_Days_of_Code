@@ -10,6 +10,11 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D85-86
+---
+
+Running through some basics of Gatsby (with FEM) with a longer term plan to switch my coding blog from wordpress. Had some major styling issues which was a bit disheartening after a day studying css but I eventually tracked my problem to a misspelling of the gatsby-config.js file. It took me many frutrating minutes to discover.
+
 R4D84 (11th Oct)
 ---
 
