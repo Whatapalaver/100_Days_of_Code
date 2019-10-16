@@ -10,6 +10,31 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D89
+---
+
+Braving Stack Overflow with one of my upgrade problems about [duplicate enum definitions](https://stackoverflow.com/questions/58410492/rails-error-instance-method-already-defined-by-another-enum-but-there-are-no-re?noredirect=1#comment103165661_58410492)
+
+Even though I can't fathom out what the heck is wrong in this instance, I have found some super useful documentation about the best way to use [Rails and Enums](https://naturaily.com/blog/ruby-on-rails-enum).
+
+R4D88
+---
+
+Still on the frustrating app upgrade process. I found a pretty helpful guide on [FastRuby](https://www.fastruby.io/upgrade) which I've been using as a guide for iteratively upgrading. It introduced me to a fab gem 'next-rails' which tells you about outdated gems and specific incompatabilities with a specified version of Rails.
+
+I've been working through the process of upgrading Ruby from 2.3 to 2.5, amending the gemfile so that pessimistic dependencies are set (to limit impact of a bundle update) and then upgrading just the gems required for Rails 6. I might have still made too many changes at once as I have a bundle of errors to resolve.
+
+I've also banged my head against the docker-compose wall again. Upgrading gems requires bundle installs and that requires docker- compose builds and that results in a major stress overload for me as it takes about 3 years to run. Anyway the silver lining is that I've now found two further improvements to my Docker process:
+
+1. Base my webpacker image on an existing image (web) [Dirk de Kok](https://medium.com/@dirkdk/running-a-rails-app-with-webpacker-and-docker-8d29153d3446)
+2. Prevent the ballooning of my public folder (7.5Gb before I noticed) caused by webpacker compile:true 
+
+R4D87
+---
+
+First attempt at a major branch . rebase, with squashing of commits. The workflow is brilliantly illustrated here: [git rebase workflow](https://medium.com/singlestone/a-git-workflow-using-rebase-1b1210de83e5)  
+Experimenting with a Rails upgrade which itself in an experiment in frustration.
+
 R4D85-86
 ---
 
