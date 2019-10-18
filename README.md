@@ -10,6 +10,13 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D90
+---
+
+Don't you just love it when you craft a beautifully explained and researched SO question, only to discover, after hours of further research, that you've posted a complete red herring and your problem is totally unrelated to your first suspicion? 
+
+In more positive news, I found a great learning resource from [Justin Weiss](https://www.justinweiss.com/practicing-rails-course/) and have picked up tips on utilising Minitest for on-the-fly console-like tests. I'm now on the hunt for mini-projects so I can kick off some 'deliberate practice' with rails.
+
 R4D89
 ---
 
