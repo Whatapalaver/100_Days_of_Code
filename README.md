@@ -10,6 +10,20 @@ My previous accountability rounds are till available here:
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R4D96
+---
+
+Another tip from [Justin Weiss](https://www.justinweiss.com/articles/take-a-rails-deep-dive/) has seen me experimenting with [rails-erd gem](https://voormedia.github.io/rails-erd/) for generating entity relationship diagrams for our rails app. This blog from [Noise from the Basement](https://nftb.saturdaymp.com/today-i-learned-how-to-generate-a-erd-for-rails-application/ has some specific tips for running rails-erd in a docker container along with syntax examples for restricting the tables that are included in the diagram. My first attempt required a microscope to view.
+
+R4D91-95
+---
+
+The biggest frustration from this week was unreliable tests. I'm in a situation where my tests pass individually but then fail when run as a suite in my local docker environment but pass when run on CI. Stack Overflow hasn't been able to rescue me. I've been trying to resolve with database_cleanup between tests and other debugging experiments but all to no avail so far. The major win of the week relates to improvement to my docker and docker-compose setup which will literally save me hours...
+
+The first improvement was to fathom out hw to stop my tests from filling up the public folder, resulting in a massive file size burden for the COPY command and the second was [caching the bundle](https://evilmartians.com/chronicles/ruby-on-whales-docker-for-ruby-rails-development) and stripping the bundle install process so that it only runs on the up command and then only if the cache is invalidated.
+
+This has been such a joy that I can almost forget about my testing headache.
+
 R4D90
 ---
 
