@@ -1,27 +1,29 @@
-Whatapalaver's 100DaysOfCode Log - Round 5
+Whatapalaver's 100DaysOfCode Log - Round 6
 ===
 
-It's time to level up my Rails skills so I'm timing round 5 of 100 Days of Code to coincide with the start of a new coaching relationship with Cezar Halmagean which should give me loads of opportunity for focussed and deliberate rails practice.
+Round 6 of 100 Days of Code will document my 10 week (and beyond) Journey to become an Algorithmic Whizz. This year I intend to get to the end of Advent of Code without it sucking every waking hour.
 
+- [Round 5](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r5-log.md) this was supposed to cover my foray into BDD practice but I abandoned logging after 3 days so we will never know how that progressed.
 - [Round 4](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r4-log.md) this covered the first 9 months or so of my first fullstack developer role
 - [Round 3](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r3-log.md) documented the 70 days post Makers graduation where I consolidated the bootcamp experience, completed a stack of technical tests and finally secured myself a couple of job offers before accepting a fullstack role at The V&A.
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
-R5D3
+
+
+R6D2
 ---
 
-I'm back onto many-many relationships again and can't help feeling that I must be making a giant great mole hill out of this stuff. I've got many-many relationships between users and companies. Many-many between companies and addresses and then many-many between addresses and address_types. I'm now experimenting with has_many :through models but feel like I have created one great big mess. Surely it was never this bad with SQL? I'm also trying out BDD with cucumber which has to be cool as it has gherkin syntax.
+Gayle Laakman McDowell (with HackerRank) presents some great videos which have been collated into a [CtCI playlist](https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt) and the [session on Big O](https://www.youtube.com/watch?v=v4cd1O4zkGw) was brilliantly described. I suspect I will need to do some basic math reminders on logs etc.
 
-R5D2
+
+R6D1
 ---
 
-The feature I've been working on at work for the last forever (few months) has now been pushed to production and already the teeny tiny bugs are scuttling across the screen. That just goes to show that my tests are not comprehensive enough. Anyway, the latest bug just involved a missing parameter. Logger.debug to the rescue as it helped me hone in on the problematic area.
+I've spent some time reading around my challenge. If I want to achieve a decent level of algorithmic aptitude, I need a bit of a road map for the journey. So I've read the opening chapters of Cracking the Coding Interview (CtCI) and read other peoples blogs on how they achieved mastery on Leetcode.
 
-R5D1
----
+I've signed up for a Coursera course on [Algorithms and Data Structures](https://www.coursera.org/specializations/data-structures-algorithms) as it was a regular feature in the blogs I read. I've watched the forst weeks videos but I can't do the practical assignments as they don't seem to be available when you only audit the class. I'm not sure if I want to invest in a Coursera subscription at this stage.
 
-My first Rails coaching challenge involves me working with ActiveRecord and setting up some many-to-many relationships which mirror some of the struggles I have at work.
-[This blog](https://www.sitepoint.com/master-many-to-many-associations-with-activerecord/) very neatly demonstrates 3 scenarios HABTM, has_many :through and has_many :through :source and [this blog](http://joshfrankel.me/blog/create-a-many-to-many-activerecord-association-in-ruby-on-rails/) is equally useful.
+Read a bit about Big O. Have to say that the explanation in CtCI lost me quite early on so I will need to recap tomorrow.
 
-I'm already beginning to see the limitations of HABTM now that I want to add more fields to my join table and need to think about validations.
+Did my first LeetCode challenge Two Sums but can now see that I've solved it in the most naive of methods with O(n2) despite thinking I'd snuck in a few optimisations.
