@@ -16,6 +16,14 @@ R6D2
 
 Gayle Laakman McDowell (with HackerRank) presents some great videos which have been collated into a [CtCI playlist](https://www.youtube.com/playlist?list=PLX6IKgS15Ue02WDPRCmYKuZicQHit9kFt) and the [session on Big O](https://www.youtube.com/watch?v=v4cd1O4zkGw) was brilliantly described. I suspect I will need to do some basic math reminders on logs etc.
 
+I need to draw up my route map asap. I can already feel myself spinning in circles as I wonder what to learn next. 
+
+I was just looking at some optimisation methods for the first easy challenge on Leet Code and it involved discussion of Hash Maps. Wtf are hash maps I thought to myself as I committed to gaining at least a basic overview of Data Structures before I take on any more coding challenges.
+
+Turns out I do know what a Hash Table is. It’s a hash (ruby) or a dictionary (python) and while I may not know how to implement one from scratch I do at least know how to use one. So perhaps I can continue after all….
+
+So I paused on the procrastination and started watching videos. More Gayle Laakman McDowell (GLM) in my lunch break and [Data Structures](https://www.coursera.org/specializations/data-structures-algorithms) from the Coursera course I'm auditing after work. Already, with just 2 days part time study in my back pocket, I can see that this is a worthwhile exercise. Understanding how arrays are implemented as a contiguous area of memory helps me to understand the significance of things like in-place manipulation with methods! I can see as well, when I ponder whether my coding approach might result in an out of memory situation that it is possible to go from vague pondering to knowing. 
+
 
 R6D1
 ---
