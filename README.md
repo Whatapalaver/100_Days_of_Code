@@ -9,6 +9,14 @@ Round 6 of 100 Days of Code will document my 10 week (and beyond) Journey to bec
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R6D3
+---
+
+I've decided to quit auditing the [Data Structures and Algorithms](https://www.coursera.org/specializations/data-structures-algorithms) course and sign up proper so I can do the assignments. I've completed the first weeks challenges of 'Max Pairwise Sum' with optimisation. I suspect this will get hard pretty soon as there is a lot of focus on stress testing to deal with minimal feedback of failure.
+
+I'm interlacing the basic algorithm course with the next level Data Structures course and covered off linked lists, which make a lot of sense but to my knowledge, I have never actually come across in practice. No doubt I will find out that I use them all the time but they are just not called linked lists in my language of the day.
+
+I will finish the day with Doubly Linked Lists and may try and find time to read the relevant chapters in Grokking Algorithms so I can dream about data structures.
 
 
 R6D2
