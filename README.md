@@ -9,6 +9,20 @@ Round 6 of 100 Days of Code will document my 10 week (and beyond) Journey to bec
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R6D4
+—-
+
+So today I watched videos on fibonacci and greatest common denominator. In with cases moving from a naive approach to an optimal solution. 
+
+Some things that resonated:
+
+- I always feel tres smart when I manage to get a recursive function to deliver the correct answer. I feel like I must be close to being recognised as a rocket scientist, so to see examples of where recursive methods to determine the nth Fibonacci number would taken longer than the time I have left on the planet was sobering. 
+- another reason I’ve been scared off algorithms is that I am no maths whizz kid. I can’t remember how to work out prime factorials, I can’t even remember what they are. Given that Euclid is not my middle name how am I ever supposed to derive an optimal answer for the greatest common denominator problem. I suppose the answer is by practice and memorisation.
+
+I do quite enjoy maths though and watching entry level introductions to maths is not a bad way to spend an evening. I could either watch a khan academy video on the Euclidean algorithm or watch another episode of Grand Designs. Hardly any contest!
+
+One realisation from today is that I am unlikely to ever encounter some of these data structures in real life. Ruby for example doesn’t have an implementation for a linked list and I will probably never need to write my own implementation as Ruby is not sufficiently “close to the metal”. If I had a use case where I needed to worry about memory allocation for performance reasons then I likely wouldn’t be writing in Ruby. 
+
 R6D3
 ---
 
