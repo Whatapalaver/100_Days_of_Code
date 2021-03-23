@@ -10,7 +10,7 @@ Round 6 of 100 Days of Code will document my 10 week (and beyond) Journey to bec
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
 R6D4
-—-
+---
 
 So today I watched videos on fibonacci and greatest common denominator. In with cases moving from a naive approach to an optimal solution. 
 
