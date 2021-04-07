@@ -9,6 +9,11 @@ Round 6 of 100 Days of Code will document my 10 week (and beyond) Journey to bec
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R6D5
+---
+
+I’ve had a week+ off from daily algorithm and data structure training which is rearing its ugly head now that I’m trying to write a script to determine the height of a tree. I just about managed to implement a stack in python to create a brackets checker but now I think a tree recap is in order. 
+
 R6D4
 ---
 
