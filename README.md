@@ -9,6 +9,11 @@ Round 6 of 100 Days of Code will document my 10 week (and beyond) Journey to bec
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R6D6
+---
+
+Had a significant hiatus but have rallied myself. I've been introduced to [interviewcake](https://www.interviewcake.com/article/ruby/data-structures-coding-interview?course=dsa) and while I haven't invested in the course yet but the free material is compelling. Excellent Big O explanations and the data structure explanations are the most compact and helpful that I've read so far.
+
 R6D5
 ---
 
