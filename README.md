@@ -9,6 +9,11 @@ Round 6 of 100 Days of Code will document my 10 week (and beyond) Journey to bec
 - [Round 2](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) covered the 99 days of my Makers bootcamp experience. From the pre-course to graduation day.
 - [Round 1](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md) This was my initial foray into 100 Days of Code.
 
+R6D7
+---
+
+I'm still working through interviewcake (and still impressed). I've tried the brute force approach to determine the max potential profit from selling shares and then optimised using the Greedy algorithm method (so named because you choose the option that looks the best at every step). I find that spending time trying to analyse how I attempt the problem in my head is quite revealing as I rarely hold the brute force methodology in my head. 
+
 R6D6
 ---
 
@@ -29,7 +34,7 @@ Some things that resonated:
 - I always feel tres smart when I manage to get a recursive function to deliver the correct answer. I feel like I must be close to being recognised as a rocket scientist, so to see examples of where recursive methods to determine the nth Fibonacci number would taken longer than the time I have left on the planet was sobering. 
 - another reason I’ve been scared off algorithms is that I am no maths whizz kid. I can’t remember how to work out prime factorials, I can’t even remember what they are. Given that Euclid is not my middle name how am I ever supposed to derive an optimal answer for the greatest common denominator problem. I suppose the answer is by practice and memorisation.
 
-I do quite enjoy maths though and watching entry level introductions to maths is not a bad way to spend an evening. I could either watch a khan academy video on the Euclidean algorithm or watch another episode of Grand Designs. Hardly any contest!
+I do quite enjoy maths though, and watching entry level introductions to maths is not a bad way to spend an evening. I could either watch a khan academy video on the Euclidean algorithm or watch another episode of Grand Designs. Hardly any contest!
 
 One realisation from today is that I am unlikely to ever encounter some of these data structures in real life. Ruby for example doesn’t have an implementation for a linked list and I will probably never need to write my own implementation as Ruby is not sufficiently “close to the metal”. If I had a use case where I needed to worry about memory allocation for performance reasons then I likely wouldn’t be writing in Ruby. 
 
@@ -62,7 +67,7 @@ R6D1
 
 I've spent some time reading around my challenge. If I want to achieve a decent level of algorithmic aptitude, I need a bit of a road map for the journey. So I've read the opening chapters of Cracking the Coding Interview (CtCI) and read other peoples blogs on how they achieved mastery on Leetcode.
 
-I've signed up for a Coursera course on [Algorithms and Data Structures](https://www.coursera.org/specializations/data-structures-algorithms) as it was a regular feature in the blogs I read. I've watched the forst weeks videos but I can't do the practical assignments as they don't seem to be available when you only audit the class. I'm not sure if I want to invest in a Coursera subscription at this stage.
+I've signed up for a Coursera course on [Algorithms and Data Structures](https://www.coursera.org/specializations/data-structures-algorithms) as it was a regular feature in the blogs I read. I've watched the first weeks videos but I can't do the practical assignments as they don't seem to be available when you only audit the class. I'm not sure if I want to invest in a Coursera subscription at this stage.
 
 Read a bit about Big O. Have to say that the explanation in CtCI lost me quite early on so I will need to recap tomorrow.
 
